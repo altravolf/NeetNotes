@@ -1,0 +1,266 @@
+# **************************** Part 1 ******************************
+
+Here are detailed notes on the Introduction, 17.1, and 17.2 topics for NEET preparation, including all terms, explanations, and examples from the NCERT text:
+
+Introduction to Locomotion and Movement
+
+1. Movement: A significant feature of living beings
+   - Definition: Change in position of body parts
+   - Examples: 
+     - Streaming of protoplasm in unicellular organisms (e.g., Amoeba)
+     - Movement of cilia, flagella, and tentacles
+     - Human movements: limbs, jaws, eyelids, tongue
+
+2. Locomotion: 
+   - Definition: Voluntary movements resulting in change of place or location
+   - Examples: Walking, running, climbing, flying, swimming
+
+3. Relationship between movement and locomotion:
+   - All locomotions are movements, but not all movements are locomotions
+   - Some structures serve both purposes (e.g., cilia in Paramecium, tentacles in Hydra)
+
+4. Purpose of locomotion:
+   - Search for food, shelter, mate, breeding grounds
+   - Escape from enemies/predators
+   - Find favorable climatic conditions
+
+17.1 Types of Movement
+
+Three main types of movements in human body cells:
+
+1. Amoeboid movement:
+   - Occurs in specialized cells like macrophages and leucocytes
+   - Mechanism: Formation of pseudopodia by streaming of protoplasm
+   - Involves cytoskeletal elements like microfilaments
+
+2. Ciliary movement:
+   - Occurs in internal tubular organs lined by ciliated epithelium
+   - Functions:
+     - Removal of dust particles and foreign substances from trachea
+     - Facilitating passage of ova through female reproductive tract
+
+3. Muscular movement:
+   - Involves contraction of muscles
+   - Required for movement of limbs, jaws, tongue, etc.
+   - Used for locomotion and other movements in most multicellular organisms
+
+17.2 Muscle
+
+1. Muscle tissue:
+   - Specialized tissue of mesodermal origin
+   - Constitutes 40-50% of adult human body weight
+
+2. Properties of muscles:
+   - Excitability: Ability to respond to stimuli
+   - Contractility: Ability to shorten or contract
+   - Extensibility: Ability to stretch
+   - Elasticity: Ability to return to original shape after contraction
+
+3. Classification of muscles:
+   a. Based on location:
+      i. Skeletal muscles:
+         - Associated with skeletal components
+         - Striated appearance
+         - Voluntary control
+         - Involved in locomotion and body posture changes
+      ii. Visceral muscles:
+         - Located in inner walls of hollow visceral organs
+         - Smooth appearance (non-striated)
+         - Involuntary control
+         - Assist in transportation of food and gametes
+      iii. Cardiac muscles:
+         - Muscles of the heart
+         - Striated appearance
+         - Involuntary control
+         - Branching pattern
+
+4. Structure of skeletal muscle:
+   - Muscle bundles (fascicles) held together by fascia
+   - Each fascicle contains multiple muscle fibers
+   - Muscle fiber structure:
+     - Lined by sarcolemma (plasma membrane)
+     - Contains sarcoplasm with multiple nuclei (syncytium)
+     - Sarcoplasmic reticulum: Store house of calcium ions
+     - Myofilaments/myofibrils: Parallel protein filaments
+       - Composed of actin (thin filaments) and myosin (thick filaments)
+     - Sarcomere: Functional unit of contraction
+       - Region between two Z-lines
+       - Contains I-bands (light, actin) and A-bands (dark, myosin)
+       - H-zone: Central part of A-band not overlapped by thin filaments
+
+17.2.1 Structure of Contractile Proteins
+
+1. Actin (thin) filament:
+   - Two F-actin strands helically wound
+   - F-actin: Polymer of G-actin monomers
+   - Tropomyosin: Two filaments running along F-actin
+   - Troponin: Complex protein at regular intervals on tropomyosin
+
+2. Myosin (thick) filament:
+   - Polymer of meromyosin proteins
+   - Each meromyosin has two parts:
+     - Heavy meromyosin (HMM): Globular head with short arm
+     - Light meromyosin (LMM): Tail
+   - Cross arm: Projecting HMM component
+   - Globular head functions:
+     - Active ATPase enzyme
+     - Binding sites for ATP
+     - Active sites for actin
+
+17.2.2 Mechanism of Muscle Contraction
+
+1. Sliding filament theory:
+   - Contraction occurs by sliding of thin filaments over thick filaments
+
+2. Steps of muscle contraction:
+   a. Initiation:
+      - Signal from CNS via motor neuron
+      - Motor unit: Motor neuron + connected muscle fibers
+      - Neuromuscular junction/motor-end plate: Junction between motor neuron and sarcolemma
+   b. Action potential generation:
+      - Neurotransmitter (Acetylcholine) release
+      - Action potential spreads through muscle fiber
+   c. Calcium release:
+      - Ca²⁺ released from sarcoplasmic reticulum into sarcoplasm
+   d. Cross-bridge formation:
+      - Ca²⁺ binds to troponin, exposing active sites on actin
+      - Myosin head binds to actin, forming cross-bridge
+   e. Sliding of filaments:
+      - ATP hydrolysis provides energy
+      - Myosin pulls actin filaments towards A-band center
+      - Z-lines pulled inwards, shortening sarcomere
+   f. Relaxation:
+      - Ca²⁺ pumped back to sarcoplasmic reticulum
+      - Actin filaments masked
+      - Z-lines return to original position
+
+3. Additional concepts:
+   - Reaction time: Varies between different muscle fibers
+   - Muscle fatigue: Accumulation of lactic acid due to anaerobic glycogen breakdown
+   - Myoglobin: Oxygen-storing pigment in muscles
+   - Red fibers (aerobic muscles):
+     - High myoglobin content
+     - Numerous mitochondria
+     - Utilize stored oxygen for ATP production
+   - White fibers:
+     - Low myoglobin content
+     - Fewer mitochondria
+     - High sarcoplasmic reticulum content
+     - Rely on anaerobic processes for energy
+
+These notes cover the introduction, types of movement, and muscle structure and function as presented in the NCERT text, including all relevant terms, explanations, and examples for NEET preparation.
+
+
+
+
+
+
+
+# ***************************** Part 2 **********************
+
+Here are detailed notes on topics 17.3 to 17.5 for NEET preparation, including all terms, explanations, and examples from the NCERT text:
+
+17.3 Skeletal System
+
+1. Components:
+   - Framework of bones and cartilages
+   - 206 bones and few cartilages in human beings
+
+2. Functions:
+   - Provides structure for body movement
+   - Protection of internal organs
+
+3. Types of skeletal tissues:
+   a. Bone: Hard matrix due to calcium salts
+   b. Cartilage: Slightly pliable matrix due to chondroitin salts
+
+4. Divisions of skeletal system:
+   a. Axial skeleton (80 bones):
+      i. Skull:
+         - 22 bones total
+         - Cranial bones (8): Protective covering for brain
+         - Facial bones (14): Front part of skull
+         - Hyoid: Single U-shaped bone at base of buccal cavity
+         - Ear ossicles: 3 tiny bones in each middle ear (Malleus, Incus, Stapes)
+      ii. Vertebral column:
+         - 26 vertebrae
+         - Regions: Cervical (7), Thoracic (12), Lumbar (5), Sacral (1-fused), Coccygeal (1-fused)
+         - First vertebra: Atlas
+         - Functions: Protects spinal cord, supports head, attachment for ribs and back muscles
+      iii. Sternum: Flat bone on ventral midline of thorax
+      iv. Ribs:
+         - 12 pairs
+         - Bicephalic: Two articulation surfaces on dorsal end
+         - Types:
+           * True ribs (1-7): Attached to thoracic vertebrae and sternum
+           * Vertebrochondral/false ribs (8-10): Join 7th rib with hyaline cartilage
+           * Floating ribs (11-12): Not connected ventrally
+
+   b. Appendicular skeleton (126 bones):
+      i. Limbs: 30 bones each
+         - Forelimb bones: Humerus, radius, ulna, 8 carpals, 5 metacarpals, 14 phalanges
+         - Hindlimb bones: Femur (longest bone), tibia, fibula, 7 tarsals, 5 metatarsals, 14 phalanges
+         - Patella: Knee cap
+
+      ii. Girdles:
+         - Pectoral girdle (shoulder):
+           * Clavicle (collar bone): Long slender bone with two curvatures
+           * Scapula: Large triangular flat bone
+             - Spine: Elevated ridge on dorsal surface
+             - Acromion: Flat, expanded process of spine
+             - Glenoid cavity: Depression for articulation with humerus
+         - Pelvic girdle:
+           * Two coxal bones, each formed by fusion of ilium, ischium, and pubis
+           * Acetabulum: Cavity for articulation with thigh bone
+           * Pubic symphysis: Ventral fusion of two halves containing fibrous cartilage
+
+17.4 Joints
+
+1. Definition: Points of contact between bones, or between bones and cartilages
+
+2. Function: Essential for movements involving bony parts of the body
+
+3. Classification based on structure:
+   a. Fibrous joints:
+      - No movement allowed
+      - Example: Skull bones connected by sutures
+   b. Cartilaginous joints:
+      - Limited movement allowed
+      - Example: Joints between adjacent vertebrae
+   c. Synovial joints:
+      - Considerable movement allowed
+      - Characterized by fluid-filled synovial cavity between articulating surfaces
+      - Examples:
+        * Ball and socket joint: Between humerus and pectoral girdle
+        * Hinge joint: Knee joint
+        * Pivot joint: Between atlas and axis
+        * Gliding joint: Between carpals
+        * Saddle joint: Between carpal and metacarpal of thumb
+
+17.5 Disorders of Muscular and Skeletal System
+
+1. Myasthenia gravis:
+   - Autoimmune disorder affecting neuromuscular junction
+   - Symptoms: Fatigue, weakening, and paralysis of skeletal muscles
+
+2. Muscular dystrophy:
+   - Progressive degeneration of skeletal muscles
+   - Mostly due to genetic disorders
+
+3. Tetany:
+   - Rapid spasms (wild contractions) in muscles
+   - Caused by low calcium levels in body fluids
+
+4. Arthritis:
+   - Inflammation of joints
+
+5. Osteoporosis:
+   - Age-related disorder
+   - Characterized by decreased bone mass and increased risk of fractures
+   - Common cause: Decreased levels of estrogen
+
+6. Gout:
+   - Inflammation of joints
+   - Caused by accumulation of uric acid crystals
+
+These notes cover the skeletal system, joints, and disorders of the muscular and skeletal system as presented in the NCERT text, including all relevant terms, explanations, and examples for NEET preparation.

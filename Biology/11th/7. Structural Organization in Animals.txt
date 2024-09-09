@@ -1,0 +1,165 @@
+# ******************* Part 1 ********************
+
+Here are detailed notes for topics 7.1, 7.2, and 7.2.1, focusing on NEET preparation and including all terms, explanations, and examples from the NCERT text:
+
+7.1 Organ and Organ System
+
+1. Tissue: A group of similar cells along with intercellular substances that perform a specific function.
+
+2. Organ: Formed when two or more types of tissues organize in a specific proportion and pattern. 
+   Example: stomach, lung, heart, kidney
+
+3. Organ System: When two or more organs perform a common function through physical and/or chemical interaction.
+   Example: digestive system, respiratory system
+
+4. Division of labor: Cells, tissues, organs, and organ systems split up work efficiently in multicellular organisms.
+
+5. Evolutionary trend: The discernible trend in the complexity of organ and organ systems.
+
+6. Morphology: Study of form or externally visible features.
+   - In plants/microbes: Refers only to external features
+   - In animals: Refers to the external appearance of organs or body parts
+
+7. Anatomy: Study of internal organs in animals.
+
+7.2 Frogs
+
+1. Scientific classification:
+   - Class: Amphibia
+   - Phylum: Chordata
+
+2. Common species in India: Rana tigrina
+
+3. Habitat: Can live both on land and in freshwater
+
+4. Body temperature regulation:
+   - Cold-blooded (poikilotherms): Body temperature varies with the environment
+
+5. Adaptive features:
+   a. Camouflage: Ability to change color to hide from enemies
+   b. Mimicry: Protective coloration
+   c. Aestivation: Summer sleep in deep burrows to protect from extreme heat
+   d. Hibernation: Winter sleep in deep burrows to protect from extreme cold
+
+7.2.1 Morphology
+
+1. Skin:
+   - Smooth and slippery due to mucus
+   - Always moist
+   - Helps in absorbing water (frogs don't drink water)
+
+2. Coloration:
+   - Dorsal side: Generally olive green with dark irregular spots
+   - Ventral side: Uniformly pale yellow
+
+3. Body divisions: Head and trunk (no neck or tail)
+
+4. Head features:
+   - Nostrils: A pair above the mouth
+   - Eyes: Bulged, covered by nictitating membrane (protects eyes underwater)
+   - Tympanum: Membranous ear on either side of eyes for receiving sound signals
+
+5. Limbs:
+   - Forelimbs: Help in swimming, walking, leaping, and burrowing; end in four digits
+   - Hind limbs: Larger and more muscular than forelimbs; end in five digits
+   - Feet: Webbed digits for swimming
+
+6. Sexual dimorphism:
+   - Male frogs: Have vocal sacs for sound production and a copulatory pad on the first digit of forelimbs
+   - Female frogs: Lack vocal sacs and copulatory pad
+
+These notes cover the key points, terms, and examples from the NCERT text for topics 7.1, 7.2, and 7.2.1, which should be helpful for NEET preparation.
+
+
+
+
+
+
+
+# ********************* Part 2 **********************
+
+Here are detailed notes for topic 7.2.2 Anatomy, focusing on NEET preparation and including all terms, explanations, and examples from the NCERT text:
+
+7.2.2 Anatomy
+
+1. Digestive System:
+   - Components: Alimentary canal and digestive glands
+   - Alimentary canal is short (frogs are carnivores)
+   - Parts: Mouth → Buccal cavity → Pharynx → Oesophagus → Stomach → Intestine → Rectum → Cloaca
+   - Digestive glands:
+     a. Liver: Secretes bile, stored in gall bladder
+     b. Pancreas: Produces pancreatic juice with digestive enzymes
+   - Tongue: Bilobed, used for capturing prey
+   - Digestion process:
+     a. Stomach: HCl and gastric juices begin digestion
+     b. Duodenum: Receives bile and pancreatic juices
+     c. Intestine: Final digestion and absorption through villi and microvilli
+   - Waste elimination: Through cloaca
+
+2. Respiratory System:
+   - Aquatic respiration: Through skin (cutaneous respiration)
+   - Terrestrial respiration: 
+     a. Buccal cavity
+     b. Skin
+     c. Lungs (pulmonary respiration)
+   - Lungs: Pair of elongated, pink, sac-like structures in the upper trunk
+   - During aestivation and hibernation: Gaseous exchange through skin
+
+3. Circulatory System:
+   - Closed type, well-developed
+   - Components: Heart, blood vessels, blood
+   - Lymphatic system also present
+   - Heart: 
+     a. Three-chambered: Two atria, one ventricle
+     b. Covered by pericardium
+     c. Sinus venosus: Triangular structure joining right atrium
+     d. Conus arteriosus: Sac-like structure on ventral side
+   - Blood composition: Plasma and cells (RBCs, WBCs, platelets)
+   - RBCs: Nucleated, contain haemoglobin
+   - Special venous connections:
+     a. Hepatic portal system: Between liver and intestine
+     b. Renal portal system: Between kidney and lower body parts
+
+4. Excretory System:
+   - Components: Pair of kidneys, ureters, cloaca, urinary bladder
+   - Kidneys: Bean-shaped, dark red, located posteriorly on both sides of vertebral column
+   - Functional unit: Uriniferous tubules or nephrons
+   - Frogs are ureotelic (excrete urea)
+
+5. Nervous System:
+   - Central nervous system: Brain and spinal cord
+   - Peripheral nervous system: Cranial and spinal nerves
+   - Autonomic nervous system: Sympathetic and parasympathetic
+   - Brain divisions:
+     a. Forebrain: Olfactory lobes, cerebral hemispheres, diencephalon
+     b. Midbrain: Optic lobes
+     c. Hindbrain: Cerebellum and medulla oblongata
+   - Cranial nerves: 10 pairs
+   - Spinal cord: Enclosed in vertebral column
+
+6. Sense Organs:
+   - Touch: Sensory papillae
+   - Taste: Taste buds
+   - Smell: Nasal epithelium
+   - Vision: Eyes (simple eyes with one unit)
+   - Hearing: Tympanum with internal ears (also for balance)
+
+7. Endocrine System:
+   - Glands: Pituitary, thyroid, parathyroid, thymus, pineal body, pancreatic islets, adrenals, gonads
+
+8. Reproductive System:
+   - Male reproductive organs:
+     a. Testes: Pair of yellowish ovoid structures
+     b. Vasa efferentia: 10-12 in number, connect testes to kidneys
+     c. Bidder's canal: Connects vasa efferentia to urinogenital duct
+     d. Urinogenital duct: Opens into cloaca
+   - Female reproductive organs:
+     a. Ovaries: Pair near kidneys
+     b. Oviducts: Open into cloaca separately
+   - Fertilization: External, in water
+   - Egg-laying capacity: 2500-3000 ova at a time
+   - Development: Involves larval stage (tadpole)
+   - Metamorphosis: Tadpole transforms into adult frog
+
+These notes cover all the key points, terms, and examples from the NCERT text for topic 7.2.2, which should be helpful for NEET preparation.
+

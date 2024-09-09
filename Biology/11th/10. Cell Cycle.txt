@@ -1,0 +1,209 @@
+# ************************** Part 1 ******************************
+
+Here are detailed notes on topics 10.1 to 10.2 for NEET preparation, including all terms, explanations, and examples from the NCERT text:
+
+10.1 Cell Cycle
+
+Definition: The sequence of events by which a cell duplicates its genome, synthesizes other cell constituents, and eventually divides into two daughter cells.
+
+Key Points:
+- All organisms start life from a single cell
+- Growth and reproduction are characteristics of cells
+- Cells reproduce by dividing into two daughter cells
+
+10.1.1 Phases of Cell Cycle
+
+The cell cycle is divided into two basic phases:
+1. Interphase (95% of cell cycle duration)
+2. M Phase (Mitosis phase) (about 1 hour in a 24-hour human cell cycle)
+
+Interphase: The phase between two successive M phases
+Subdivided into:
+a) G1 phase (Gap 1): 
+   - Interval between mitosis and DNA replication
+   - Cell is metabolically active and grows
+   - No DNA replication occurs
+
+b) S phase (Synthesis):
+   - DNA replication takes place
+   - DNA amount doubles (2C to 4C)
+   - Chromosome number remains same (2n)
+   - In animal cells, centriole duplication occurs in cytoplasm
+
+c) G2 phase (Gap 2):
+   - Protein synthesis for mitosis
+   - Cell growth continues
+
+G0 phase (Quiescent stage):
+- Inactive stage entered by cells that don't divide further
+- Cells remain metabolically active but don't proliferate
+
+Examples:
+- Human cells in culture divide once in approximately 24 hours
+- Yeast cells progress through the cell cycle in about 90 minutes
+
+Note: Plants show mitotic divisions in both haploid and diploid cells, while animals typically only show mitosis in diploid somatic cells (exception: male honey bees)
+
+10.2 M Phase
+
+Definition: The phase when actual cell division or mitosis occurs
+
+Subdivided into:
+1. Karyokinesis (nuclear division)
+2. Cytokinesis (cytoplasmic division)
+
+Karyokinesis involves four stages:
+
+10.2.1 Prophase
+- Chromosomal material condenses
+- Chromosomes become visible, composed of two chromatids attached at the centromere
+- Centrosome duplication and movement towards opposite poles
+- Formation of asters (microtubules radiating from centrosomes)
+- Golgi complex, endoplasmic reticulum, nucleolus, and nuclear envelope disappear
+
+10.2.2 Metaphase
+- Nuclear envelope completely disintegrates
+- Chromosomes align at the equator (metaphase plate)
+- Kinetochores (disc-shaped structures on centromeres) attach to spindle fibers
+- Sister chromatids connect to opposite poles
+
+10.2.3 Anaphase
+- Centromeres split
+- Sister chromatids (now called daughter chromosomes) migrate to opposite poles
+- Centromeres lead, chromosome arms trail behind
+
+10.2.4 Telophase
+- Chromosomes decondense at poles
+- Nuclear envelope reforms around chromosome clusters
+- Nucleolus, Golgi complex, and ER reform
+
+10.2.5 Cytokinesis
+- Division of cytoplasm
+- In animal cells: furrow appears in plasma membrane, deepens, and joins in center
+- In plant cells: cell-plate forms in center and grows outward
+- Organelles like mitochondria and plastids get distributed between daughter cells
+
+Example of no cytokinesis: Syncytium formation (e.g., liquid endosperm in coconut)
+
+Terms to remember:
+- Equational division: Another name for mitosis (chromosome number remains same)
+- Chromatids: Replicated chromosomes joined at centromere
+- Asters: Microtubules radiating from centrosomes
+- Kinetochores: Attachment sites for spindle fibers on centromeres
+- Metaphase plate: Plane of chromosome alignment during metaphase
+- Cell-plate: Precursor of new cell wall in plant cells during cytokinesis
+- Syncytium: Multinucleate condition arising from karyokinesis without cytokinesis
+
+
+
+
+
+
+
+
+
+
+
+# ************************** Part 2 ******************************
+
+Here are detailed notes on topics 10.3 to 10.5 for NEET preparation, including all terms, explanations, and examples from the NCERT text:
+
+10.3 Significance of Mitosis
+
+Key Points:
+1. Equational division: Usually restricted to diploid cells (some exceptions in lower plants and social insects)
+2. Produces genetically identical daughter cells
+3. Responsible for growth in multicellular organisms
+4. Helps maintain nucleo-cytoplasmic ratio
+5. Essential for cell repair and replacement
+6. Enables continuous growth in plants through meristematic tissues
+
+Examples:
+- Continuous replacement of upper layer of epidermis, gut lining cells, and blood cells
+- Growth in plants through apical and lateral meristems
+
+Terms:
+- Meristematic tissues: Plant tissues with actively dividing cells
+
+10.4 Meiosis
+
+Definition: A specialized type of cell division that reduces the chromosome number by half, resulting in the production of haploid daughter cells.
+
+Key Features:
+1. Two sequential cycles of nuclear and cell division (Meiosis I and II)
+2. Only one cycle of DNA replication
+3. Pairing of homologous chromosomes and recombination
+4. Formation of four haploid cells
+
+10.4.1 Meiosis I
+
+Prophase I:
+Subdivided into five phases:
+a) Leptotene: Chromosomes become visible and compact
+b) Zygotene: Synapsis (pairing of homologous chromosomes) occurs
+c) Pachytene: 
+   - Tetrads (four chromatids) become visible
+   - Crossing over occurs at recombination nodules
+d) Diplotene: 
+   - Synaptonemal complex dissolves
+   - Chiasmata (X-shaped structures) appear
+e) Diakinesis: 
+   - Terminalisation of chiasmata
+   - Chromosomes fully condensed
+   - Nuclear envelope and nucleolus disappear
+
+Metaphase I:
+- Bivalents align on the equatorial plate
+- Microtubules attach to kinetochores of homologous chromosomes
+
+Anaphase I:
+- Homologous chromosomes separate
+- Sister chromatids remain attached at centromeres
+
+Telophase I:
+- Nuclear membrane and nucleolus reappear
+- Cytokinesis follows, resulting in a dyad of cells
+
+Interkinesis: Short stage between Meiosis I and II (no DNA replication)
+
+10.4.2 Meiosis II
+
+Prophase II: Similar to mitotic prophase, but shorter
+
+Metaphase II:
+- Chromosomes align at the equator
+- Microtubules attach to kinetochores of sister chromatids
+
+Anaphase II:
+- Centromeres split
+- Sister chromatids move to opposite poles
+
+Telophase II:
+- Nuclear envelope reforms around chromosome groups
+- Cytokinesis results in a tetrad of haploid cells
+
+10.5 Significance of Meiosis
+
+1. Maintains chromosome number across generations in sexually reproducing organisms
+2. Increases genetic variability through:
+   a) Random segregation of paternal and maternal chromosomes
+   b) Crossing over and recombination
+3. Crucial for evolution by generating variations
+
+Terms to remember:
+- Synapsis: Pairing of homologous chromosomes
+- Bivalent: Paired homologous chromosomes
+- Tetrad: Four chromatids in a bivalent
+- Crossing over: Exchange of genetic material between non-sister chromatids
+- Chiasmata: X-shaped structures representing crossover points
+- Recombination: Formation of new combinations of alleles
+- Synaptonemal complex: Protein structure formed during synapsis
+- Terminalisation: Movement of chiasmata towards chromosome ends
+- Dyad: Two-cell stage after Meiosis I
+- Tetrad: Four-cell stage after Meiosis II
+
+Examples:
+- Oocytes of some vertebrates can remain in diplotene stage for months or years
+- Meiosis occurs during gametogenesis in plants and animals
+
+Note: The significance of meiosis in evolution is emphasized, as it generates genetic variability essential for the process of evolution.

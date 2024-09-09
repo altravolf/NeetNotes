@@ -1,0 +1,306 @@
+# **************************** Part 1 ******************************
+
+Here are detailed notes on section 14.1 Respiratory Organs, tailored for NEET preparation:
+
+14.1 Respiratory Organs
+
+1. Breathing mechanisms vary among animals based on:
+   - Habitat
+   - Level of organization
+
+2. Gas exchange in different organisms:
+   a) Lower invertebrates (e.g., sponges, coelenterates, flatworms):
+      - Use simple diffusion over entire body surface
+      - Exchange O₂ with CO₂
+
+   b) Earthworms:
+      - Use moist cuticle for gas exchange
+
+   c) Insects:
+      - Have a network of tubes called tracheal tubes
+      - Transport atmospheric air within the body
+
+   d) Aquatic arthropods and molluscs:
+      - Use gills (branchial respiration)
+      - Gills are specialized vascularized structures
+
+   e) Terrestrial animals:
+      - Use lungs (pulmonary respiration)
+      - Lungs are vascularized bags
+
+   f) Vertebrates:
+      - Fishes: Use gills
+      - Amphibians, reptiles, birds, and mammals: Use lungs
+      - Amphibians (e.g., frogs): Can also respire through moist skin (cutaneous respiration)
+
+14.1.1 Human Respiratory System
+
+1. External nostrils:
+   - Open above upper lips
+   - Lead to nasal chamber through nasal passage
+
+2. Nasal chamber:
+   - Opens into pharynx
+
+3. Pharynx:
+   - Common passage for food and air
+
+4. Larynx:
+   - Cartilaginous box
+   - Helps in sound production (also called sound box)
+   - Contains glottis, which can be covered by epiglottis during swallowing
+
+5. Trachea:
+   - Straight tube extending to mid-thoracic cavity
+   - Divides at 5th thoracic vertebra into right and left primary bronchi
+
+6. Bronchi:
+   - Undergo repeated divisions
+   - Form secondary and tertiary bronchi, and bronchioles
+   - End in very thin terminal bronchioles
+
+7. Alveoli:
+   - Thin, irregular-walled, vascularized bag-like structures
+   - Arise from terminal bronchioles
+
+8. Lungs:
+   - Consist of bronchi, bronchioles, and alveoli network
+   - Two lungs present
+   - Covered by double-layered pleura with pleural fluid between layers
+   - Pleural fluid reduces friction on lung surface
+
+9. Thoracic chamber:
+   - Air-tight chamber containing lungs
+   - Formed by:
+     a) Vertebral column (dorsally)
+     b) Sternum (ventrally)
+     c) Ribs (laterally)
+     d) Diaphragm (lower side, dome-shaped)
+
+10. Parts of respiratory system:
+    a) Conducting part:
+       - From external nostrils to terminal bronchioles
+       - Functions: Transport air, clear foreign particles, humidify air, bring air to body temperature
+    b) Respiratory/Exchange part:
+       - Alveoli and their ducts
+       - Site of actual diffusion of O₂ and CO₂ between blood and atmospheric air
+
+Key terms to remember:
+- Branchial respiration: Gas exchange using gills
+- Pulmonary respiration: Gas exchange using lungs
+- Cutaneous respiration: Gas exchange through skin
+- Tracheal tubes: Network of tubes in insects for air transport
+- Epiglottis: Thin elastic cartilaginous flap covering glottis during swallowing
+- Pleura: Double-layered membrane covering lungs
+- Pleural fluid: Fluid between pleural layers, reduces friction
+
+Note: This section provides a comprehensive overview of respiratory organs across different organisms and a detailed description of the human respiratory system. Understanding the structure and function of each component is crucial for NEET preparation.
+
+
+
+
+
+
+
+# *************************** Part 2 ******************************
+
+Here are detailed notes for sections 14.2 to 14.6, tailored for NEET preparation:
+
+14.2 Mechanism of Breathing
+
+1. Breathing stages:
+   a) Inspiration: Drawing in atmospheric air
+   b) Expiration: Releasing alveolar air
+
+2. Breathing mechanism:
+   - Based on pressure gradients between lungs and atmosphere
+   - Inspiration occurs when intra-pulmonary pressure < atmospheric pressure
+   - Expiration occurs when intra-pulmonary pressure > atmospheric pressure
+
+3. Muscles involved:
+   - Diaphragm
+   - External intercostal muscles
+   - Internal intercostal muscles
+
+4. Inspiration process:
+   - Diaphragm contracts (increases thoracic volume in antero-posterior axis)
+   - External intercostal muscles contract (lift ribs and sternum, increasing thoracic volume in dorso-ventral axis)
+   - Increased thoracic volume → increased pulmonary volume → decreased intra-pulmonary pressure
+   - Air moves into lungs
+
+5. Expiration process:
+   - Diaphragm and intercostal muscles relax
+   - Thoracic and pulmonary volumes reduce
+   - Intra-pulmonary pressure increases
+   - Air is expelled from lungs
+
+6. Breathing rate: 12-16 times/minute in a healthy human
+
+14.2.1 Respiratory Volumes and Capacities
+
+1. Tidal Volume (TV):
+   - Air volume inspired or expired during normal respiration
+   - Approx. 500 mL
+
+2. Inspiratory Reserve Volume (IRV):
+   - Additional air volume that can be inspired forcibly
+   - 2500-3000 mL
+
+3. Expiratory Reserve Volume (ERV):
+   - Additional air volume that can be expired forcibly
+   - 1000-1100 mL
+
+4. Residual Volume (RV):
+   - Air volume remaining in lungs after forcible expiration
+   - 1100-1200 mL
+
+5. Inspiratory Capacity (IC):
+   - TV + IRV
+
+6. Expiratory Capacity (EC):
+   - TV + ERV
+
+7. Functional Residual Capacity (FRC):
+   - ERV + RV
+
+8. Vital Capacity (VC):
+   - Maximum air volume that can be breathed out after forced inspiration
+   - IRV + TV + ERV
+
+9. Total Lung Capacity (TLC):
+   - RV + ERV + TV + IRV
+   - Or, Vital Capacity + Residual Volume
+
+14.3 Exchange of Gases
+
+1. Primary sites: Alveoli
+
+2. Other sites: Between blood and tissues
+
+3. Mechanism: Simple diffusion based on pressure/concentration gradient
+
+4. Factors affecting diffusion:
+   - Pressure gradient
+   - Solubility of gases
+   - Thickness of membranes
+
+5. Partial pressure:
+   - Pressure contributed by an individual gas in a mixture
+   - Represented as pO₂ for oxygen and pCO₂ for carbon dioxide
+
+6. Concentration gradients:
+   - O₂: Alveoli → Blood → Tissues
+   - CO₂: Tissues → Blood → Alveoli
+
+7. Diffusion membrane structure:
+   - Thin squamous epithelium of alveoli
+   - Endothelium of alveolar capillaries
+   - Basement substance (composed of thin basement membranes)
+   - Total thickness < 1 mm
+
+14.4 Transport of Gases
+
+1. Oxygen transport:
+   - 97% by RBCs
+   - 3% dissolved in plasma
+
+2. CO₂ transport:
+   - 20-25% by RBCs
+   - 70% as bicarbonate
+   - 7% dissolved in plasma
+
+14.4.1 Transport of Oxygen
+
+1. Haemoglobin:
+   - Red, iron-containing pigment in RBCs
+   - Can bind 4 O₂ molecules reversibly (forms oxyhaemoglobin)
+
+2. Factors affecting O₂ binding:
+   - Partial pressure of O₂
+   - Partial pressure of CO₂
+   - H⁺ concentration
+   - Temperature
+
+3. Oxygen dissociation curve:
+   - Sigmoid curve
+   - Shows percentage saturation of haemoglobin with O₂ against pO₂
+
+4. O₂ delivery:
+   - 100 mL oxygenated blood delivers ~5 mL O₂ to tissues under normal conditions
+
+14.4.2 Transport of Carbon Dioxide
+
+1. Carbamino-haemoglobin:
+   - 20-25% of CO₂ carried by haemoglobin
+   - Binding affected by pCO₂ and pO₂
+
+2. Carbonic anhydrase:
+   - Enzyme present in high concentration in RBCs
+   - Facilitates CO₂ + H2O ⇌ H2CO3 ⇌ HCO₃⁻ + H⁺
+
+3. CO₂ transport mechanism:
+   - At tissue site: CO₂ diffuses into blood, forms HCO₃⁻ and H⁺
+   - At alveolar site: Reaction reverses, releasing CO₂
+
+4. CO₂ delivery:
+   - 100 mL deoxygenated blood delivers ~4 mL CO₂ to alveoli
+
+14.5 Regulation of Respiration
+
+1. Respiratory rhythm centre:
+   - Located in medulla region of brain
+   - Primary regulator of respiratory rhythm
+
+2. Pneumotaxic centre:
+   - Located in pons region of brain
+   - Moderates functions of respiratory rhythm centre
+   - Can reduce inspiration duration and alter respiratory rate
+
+3. Chemosensitive area:
+   - Adjacent to rhythm centre
+   - Sensitive to CO₂ and H⁺ ions
+   - Activates rhythm centre to adjust respiration when these substances increase
+
+4. Other receptors:
+   - Associated with aortic arch and carotid artery
+   - Recognize changes in CO₂ and H⁺ concentration
+   - Send signals to rhythm centre for adjustments
+
+5. Role of oxygen:
+   - Insignificant in regulating respiratory rhythm
+
+14.6 Disorders of Respiratory System
+
+1. Asthma:
+   - Difficulty in breathing causing wheezing
+   - Due to inflammation of bronchi and bronchioles
+
+2. Emphysema:
+   - Chronic disorder
+   - Alveolar walls damaged, decreasing respiratory surface
+   - Major cause: Cigarette smoking
+
+3. Occupational Respiratory Disorders:
+   - Caused by long exposure to industrial dust (e.g., in grinding or stone-breaking industries)
+   - Can lead to inflammation and fibrosis (proliferation of fibrous tissues)
+   - Prevention: Workers should wear protective masks
+
+Key terms to remember:
+- Inspiration/Expiration
+- Intra-pulmonary pressure
+- Spirometer
+- Tidal Volume (TV)
+- Vital Capacity (VC)
+- Total Lung Capacity (TLC)
+- Partial pressure
+- Oxygen dissociation curve
+- Carbamino-haemoglobin
+- Carbonic anhydrase
+- Respiratory rhythm centre
+- Pneumotaxic centre
+- Chemosensitive area
+- Asthma
+- Emphysema
+- Fibrosis
+
+Note: These sections cover the mechanisms of breathing, gas exchange and transport, respiratory regulation, and common disorders. Understanding the physiological processes and their regulation is crucial for NEET preparation.

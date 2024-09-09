@@ -1,0 +1,227 @@
+# **************************** Part 1 ******************************
+
+Here are concise notes for topics 9.1 to 9.7 tailored for NEET preparation, including key terms, explanations, and examples from the NCERT text:
+
+9.1 How to Analyse Chemical Composition
+
+- Elemental analysis: Technique to determine elements present in living tissues
+- Acid-soluble pool: Filtrate obtained after grinding living tissue in trichloroacetic acid
+- Acid-insoluble fraction: Retentate obtained after filtering ground living tissue
+- Biomolecules: Carbon compounds obtained from living tissues
+- Dry weight: Weight of tissue after water evaporation
+- Ash: Inorganic residue left after burning dried tissue
+
+Key points:
+- Living organisms contain both organic and inorganic compounds
+- Carbon and hydrogen are more abundant in living tissues compared to earth's crust
+- Water is the most abundant compound in living organisms
+
+9.2 Primary and Secondary Metabolites
+
+Primary metabolites:
+- Found in all organisms
+- Essential for normal growth, development, and reproduction
+- Examples: Amino acids, nucleotides, sugars
+
+Secondary metabolites:
+- Found mainly in plants, fungi, and microbes
+- Not essential for basic metabolic processes
+- Examples: Alkaloids, flavonoids, rubber, essential oils, antibiotics, pigments, scents, gums, spices
+
+Key points:
+- Secondary metabolites have ecological importance and human applications
+- Many are useful in medicine, industry, and agriculture
+
+9.3 Biomacromolecules
+
+- Micromolecules: Biomolecules with molecular weight <1000 daltons
+- Macromolecules (Biomacromolecules): Molecules with molecular weight >10,000 daltons
+
+Types of biomacromolecules:
+1. Proteins
+2. Nucleic acids
+3. Polysaccharides
+4. Lipids (exception: low molecular weight but classified as macromolecules due to their arrangement in cell membranes)
+
+9.4 Proteins
+
+- Definition: Polypeptides composed of amino acids linked by peptide bonds
+- 20 types of amino acids
+- Functions: Transport, defense, hormones, enzymes, structural support
+- Examples:
+  - Collagen: Most abundant protein in animals
+  - RuBisCO: Most abundant protein in the biosphere
+
+Key points:
+- Proteins are heteropolymers
+- Some amino acids are essential (must be obtained from diet)
+
+9.5 Polysaccharides
+
+- Definition: Long chains of sugars (monosaccharides)
+- Types:
+  1. Homopolymers: Made of one type of monosaccharide (e.g., cellulose, starch, glycogen)
+  2. Heteropolymers: Made of different monosaccharides (e.g., chitin)
+
+Examples:
+- Cellulose: Plant cell walls, cotton fiber, paper
+- Starch: Energy storage in plants
+- Glycogen: Energy storage in animals
+- Inulin: Polymer of fructose
+- Chitin: Exoskeletons of arthropods
+
+Key points:
+- Reducing end: Right end of polysaccharide chain
+- Non-reducing end: Left end of polysaccharide chain
+- Starch forms helical structures and can hold I2 molecules (blue color)
+- Cellulose cannot hold I2
+
+9.6 Nucleic Acids
+
+- Definition: Polynucleotides composed of nucleotides
+- Types: DNA (deoxyribonucleic acid) and RNA (ribonucleic acid)
+
+Nucleotide components:
+1. Nitrogenous base:
+   - Purines: Adenine, Guanine
+   - Pyrimidines: Cytosine, Thymine (DNA only), Uracil (RNA only)
+2. Sugar: Deoxyribose (DNA) or Ribose (RNA)
+3. Phosphate group
+
+Key points:
+- DNA contains deoxyribose sugar
+- RNA contains ribose sugar
+
+9.7 Structure of Proteins
+
+Four levels of protein structure:
+
+1. Primary structure:
+   - Linear sequence of amino acids
+   - N-terminal (first) and C-terminal (last) amino acids
+
+2. Secondary structure:
+   - Local folding of the protein chain
+   - Examples: α-helix, β-pleated sheet
+
+3. Tertiary structure:
+   - Overall three-dimensional shape of a single protein molecule
+   - Formed by folding and interactions between secondary structures
+
+4. Quaternary structure:
+   - Arrangement of multiple folded protein subunits
+   - Example: Hemoglobin (2 α and 2 β subunits)
+
+Key points:
+- Only right-handed helices are observed in proteins
+- Tertiary structure is crucial for protein function
+- Some proteins consist of multiple subunits (quaternary structure)
+
+These notes cover the main concepts, terms, and examples from topics 9.1 to 9.7 as presented in the NCERT text, providing a comprehensive overview for NEET preparation.
+
+
+
+
+
+
+
+
+
+# ********************* Part 2 **********************
+
+Here are concise notes for topic 9.8 (Enzymes) tailored for NEET preparation, including key terms, explanations, and examples from the NCERT text:
+
+9.8 Enzymes
+
+Definition: Proteins that catalyze chemical reactions in living organisms
+
+Key points:
+- Most enzymes are proteins
+- Some RNA molecules (ribozymes) can act as enzymes
+- Enzymes have an active site where the substrate binds
+
+9.8.1 Chemical Reactions
+
+- Physical change: Change in shape without breaking bonds (e.g., ice melting)
+- Chemical reaction: Breaking and forming of bonds (e.g., hydrolysis of starch)
+- Rate of reaction: Amount of product formed per unit time
+- Metabolic pathway: Series of enzyme-catalyzed reactions
+
+Example: Glucose → 2 Pyruvic acid (involves 10 enzyme-catalyzed reactions)
+
+9.8.2 How Enzymes Bring About High Rates of Chemical Conversions
+
+- Active site: Specific region on the enzyme where the substrate binds
+- Substrate (S): The molecule on which the enzyme acts
+- Product (P): The result of the enzyme-catalyzed reaction
+- Enzyme-Substrate (ES) complex: Temporary structure formed when substrate binds to the enzyme
+- Transition state: Unstable intermediate structure between substrate and product
+- Activation energy: Energy barrier that must be overcome for a reaction to occur
+
+Key concept: Enzymes lower the activation energy, increasing reaction rates
+
+Example: Carbonic anhydrase
+CO2 + H2O → H2CO3
+Uncatalyzed: 200 molecules/hour
+Enzyme-catalyzed: 600,000 molecules/second (10 million times faster)
+
+9.8.3 Nature of Enzyme Action
+
+Steps in enzyme catalysis:
+1. Substrate binds to the active site
+2. Enzyme changes shape to fit the substrate (induced fit)
+3. Chemical bonds are broken/formed
+4. Products are released
+5. Enzyme is ready for next reaction
+
+9.8.4 Factors Affecting Enzyme Activity
+
+1. Temperature:
+   - Optimum temperature: Temperature at which enzyme activity is highest
+   - Low temperature: Preserves enzyme in inactive state
+   - High temperature: Denatures enzyme
+
+2. pH:
+   - Optimum pH: pH at which enzyme activity is highest
+   - Activity decreases above and below optimum pH
+
+3. Substrate concentration:
+   - Vmax: Maximum reaction velocity reached when all enzyme molecules are saturated with substrate
+   - Km (Michaelis constant): Substrate concentration at which reaction rate is half of Vmax
+
+4. Inhibitors:
+   - Chemicals that bind to enzymes and reduce their activity
+   - Competitive inhibitor: Resembles the substrate and competes for the active site
+   Example: Malonate inhibits succinic dehydrogenase (resembles succinate)
+
+9.8.5 Classification and Nomenclature of Enzymes
+
+Six main classes:
+1. Oxidoreductases/dehydrogenases: Catalyze oxidation-reduction reactions
+2. Transferases: Transfer functional groups between molecules
+3. Hydrolases: Catalyze hydrolysis reactions
+4. Lyases: Remove groups from substrates, leaving double bonds
+5. Isomerases: Catalyze structural rearrangements within a molecule
+6. Ligases: Join two molecules, using energy from ATP
+
+9.8.6 Co-factors
+
+Definition: Non-protein components necessary for enzyme activity
+
+Types:
+1. Prosthetic groups:
+   - Tightly bound organic compounds
+   Example: Heme in peroxidase and catalase
+
+2. Coenzymes:
+   - Organic compounds with transient association
+   - Often contain vitamins
+   Example: NAD and NADP (contain niacin)
+
+3. Metal ions:
+   - Form coordination bonds at the active site
+   Example: Zinc in carboxypeptidase
+
+Key point: Enzyme activity is lost when co-factors are removed
+
+These notes cover the main concepts, terms, and examples from topic 9.8 as presented in the NCERT text, providing a comprehensive overview of enzymes for NEET preparation.

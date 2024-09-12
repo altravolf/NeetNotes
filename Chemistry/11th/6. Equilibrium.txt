@@ -1,0 +1,355 @@
+# ********************************* Part 1 ****************************************
+
+# Equilibrium Notes Part 1: Introduction to 6.3
+
+## Introduction to Equilibrium
+
+- Equilibrium: State where opposing processes occur at the same rate, resulting in no net change
+- In chemistry, equilibrium can be physical (e.g., phase changes) or chemical (involving reactions)
+- Dynamic equilibrium: Continuous forward and reverse processes occurring at equal rates
+
+## 6.1 Equilibrium in Physical Processes
+
+### 6.1.1 Solid-Liquid Equilibrium
+- Example: Ice and water at 273K and 1 atm pressure
+- At equilibrium, rate of melting = rate of freezing
+- Normal melting/freezing point: Temperature at which solid and liquid are in equilibrium at 1 atm
+
+### 6.1.2 Liquid-Vapour Equilibrium
+- Example: Water and water vapor in a closed container
+- Equilibrium vapor pressure: Constant pressure exerted by vapor at a given temperature
+- Normal boiling point: Temperature at which liquid and vapor are in equilibrium at 1 atm
+
+### 6.1.3 Solid-Vapour Equilibrium
+- Example: Iodine solid and vapor
+- Sublimation: Direct conversion of solid to vapor
+
+### 6.1.4 Equilibrium Involving Dissolution of Solids or Gases in Liquids
+- Solubility equilibrium: Balance between dissolution and crystallization
+- Henry's Law: The mass of a gas dissolved in a given mass of a solvent is proportional to the pressure of the gas above the solvent
+
+### 6.1.5 General Characteristics of Equilibria Involving Physical Processes
+- Occurs in closed systems at constant temperature
+- Dynamic but stable condition
+- Measurable properties remain constant
+- Equilibrium is characterized by a constant value of a specific parameter
+
+## 6.2 Equilibrium in Chemical Processes – Dynamic Equilibrium
+
+- Chemical equilibrium: State where rates of forward and reverse reactions are equal
+- Represented by double arrows (⇌)
+- Example: N₂ + 3H₂ ⇌ 2NH₃
+- Concentration of reactants and products become constant over time
+- Dynamic nature: Both forward and reverse reactions continue to occur
+
+## 6.3 Law of Chemical Equilibrium and Equilibrium Constant
+
+- Law of Mass Action: At equilibrium, the ratio of product of concentration of products to product of concentration of reactants, each raised to the power of their stoichiometric coefficients, is constant
+- For a general reaction: aA + bB ⇌ cC + dD
+- Equilibrium constant (Kc) = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ
+- Kc is constant at a given temperature
+- For gaseous reactions, equilibrium constant in terms of partial pressures (Kp) is used
+- Relationship between Kc and Kp: Kp = Kc(RT)ᐭⁿ
+  Where Δn = (number of moles of gaseous products) - (number of moles of gaseous reactants)
+- R = gas constant, T = temperature in Kelvin
+
+## Key Terms:
+- Dynamic equilibrium: Equilibrium where forward and reverse processes occur at equal rates
+- Vapor pressure: Pressure exerted by a vapor in equilibrium with its liquid
+- Sublimation: Direct transition from solid to gas phase
+- Henry's Law: Relates gas solubility to pressure
+- Law of Mass Action: Defines the equilibrium constant
+- Equilibrium constant (Kc): Ratio of product concentrations to reactant concentrations at equilibrium
+- Kp: Equilibrium constant in terms of partial pressures
+
+
+
+# ********************************* Part 2 ****************************************
+
+# Equilibrium Notes Part 2: 6.4 to 6.7
+
+## 6.4 Homogeneous Equilibria
+
+- Homogeneous equilibrium: All reactants and products are in the same phase
+- Examples: 
+  1. N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
+  2. CH₃COOC₂H₅(aq) + H₂O(l) ⇌ CH₃COOH(aq) + C₂H₅OH(aq)
+
+### 6.4.1 Equilibrium Constant in Gaseous Systems
+- For gaseous reactions, equilibrium constant can be expressed in terms of partial pressures (Kp)
+- Relationship between Kc and Kp:
+  Kp = Kc(RT)ᐭⁿ
+  Where Δn = (moles of gaseous products) - (moles of gaseous reactants)
+- For reactions with no change in number of moles of gases, Kp = Kc
+
+## 6.5 Heterogeneous Equilibria
+
+- Heterogeneous equilibrium: Reactants and products are in different phases
+- Example: CaCO₃(s) ⇌ CaO(s) + CO₂(g)
+- For heterogeneous equilibria involving solids or pure liquids, their concentrations are constant and omitted from the equilibrium constant expression
+- Equilibrium constant for CaCO₃ decomposition: Kc = [CO₂]
+
+## 6.6 Applications of Equilibrium Constants
+
+### 6.6.1 Predicting the Extent of a Reaction
+- Large Kc (>10³): Products predominate at equilibrium
+- Small Kc (<10⁻³): Reactants predominate at equilibrium
+- Kc between 10⁻³ and 10³: Significant amounts of both reactants and products
+
+### 6.6.2 Predicting the Direction of the Reaction
+- Reaction quotient (Q): Similar to Kc but uses non-equilibrium concentrations
+- For aA + bB ⇌ cC + dD
+  Q = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ
+- If Q < Kc: Reaction proceeds forward
+- If Q > Kc: Reaction proceeds backward
+- If Q = Kc: System at equilibrium
+
+### 6.6.3 Calculating Equilibrium Concentrations
+- Steps to calculate equilibrium concentrations:
+  1. Write balanced equation
+  2. Write expressions for Kc and Q
+  3. Set up an ICE table (Initial, Change, Equilibrium)
+  4. Solve for unknown concentrations
+
+## 6.7 Relationship between Equilibrium Constant K, Reaction Quotient Q, and Gibbs Energy G
+
+- Gibbs energy change (ΔG) relates to the equilibrium constant:
+  ΔG° = -RT ln K
+- At equilibrium: ΔG = 0 and Q = K
+- General relationship: ΔG = ΔG° + RT ln Q
+- Spontaneity of reaction:
+  * If ΔG < 0: Reaction is spontaneous
+  * If ΔG > 0: Reaction is non-spontaneous
+  * If ΔG = 0: System at equilibrium
+
+## Key Terms:
+- Homogeneous equilibrium: Equilibrium where all species are in the same phase
+- Heterogeneous equilibrium: Equilibrium involving species in different phases
+- Partial pressure: Pressure exerted by an individual gas in a mixture
+- Reaction quotient (Q): Ratio of concentrations of products to reactants at any point in the reaction
+- Gibbs energy (G): Thermodynamic potential that measures the maximum reversible work that may be performed by a system at constant temperature and pressure
+
+## Formulas to Remember:
+1. Kp = Kc(RT)ᐭⁿ
+2. Q = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ
+3. ΔG° = -RT ln K
+4. ΔG = ΔG° + RT ln Q
+
+
+
+
+
+# ********************************* Part 3 ****************************************
+
+# Equilibrium Notes Part 3: 6.8 to 6.10
+
+## 6.8 Factors Affecting Equilibria
+
+Le Chatelier's Principle: When a system at equilibrium is subjected to a change, the system shifts in a direction that tends to counteract the effect of the change.
+
+### 6.8.1 Effect of Concentration Change
+- Adding reactant: Equilibrium shifts forward
+- Adding product: Equilibrium shifts backward
+- Removing reactant: Equilibrium shifts backward
+- Removing product: Equilibrium shifts forward
+
+### 6.8.2 Effect of Pressure Change
+- Increase in pressure: Equilibrium shifts to side with fewer gas molecules
+- Decrease in pressure: Equilibrium shifts to side with more gas molecules
+- No effect if equal number of gas molecules on both sides
+
+### 6.8.3 Effect of Inert Gas Addition
+- At constant volume: No effect on equilibrium
+- At constant pressure: May shift equilibrium if number of gas molecules changes
+
+### 6.8.4 Effect of Temperature Change
+- Endothermic reaction: Increase in temperature shifts equilibrium forward
+- Exothermic reaction: Decrease in temperature shifts equilibrium forward
+
+### 6.8.5 Effect of a Catalyst
+- Catalyst does not affect equilibrium position
+- Catalyst increases rate of both forward and reverse reactions equally
+
+## 6.9 Ionic Equilibrium in Solution
+
+- Electrolytes: Substances that conduct electricity in aqueous solution
+- Strong electrolytes: Completely ionized (e.g., NaCl, HCl, NaOH)
+- Weak electrolytes: Partially ionized (e.g., CH₃COOH, NH₄OH)
+
+## 6.10 Acids, Bases and Salts
+
+### 6.10.1 Arrhenius Concept of Acids and Bases
+- Acid: Produces H⁺ ions in aqueous solution
+- Base: Produces OH⁻ ions in aqueous solution
+
+### 6.10.2 The Brönsted-Lowry Acids and Bases
+- Acid: Proton donor
+- Base: Proton acceptor
+- Conjugate acid-base pair: Differs by one proton
+  Example: NH₄⁺ (acid) and NH₃ (base)
+
+### 6.10.3 Lewis Acids and Bases
+- Lewis acid: Electron pair acceptor
+- Lewis base: Electron pair donor
+  Example: BF₃ (Lewis acid) and NH₃ (Lewis base)
+
+## Key Terms:
+
+1. Le Chatelier's Principle: Predicts the direction of shift in equilibrium due to external changes
+2. Electrolyte: Substance that conducts electricity in aqueous solution
+3. Strong electrolyte: Completely ionized in solution
+4. Weak electrolyte: Partially ionized in solution
+5. Arrhenius acid: H⁺ ion producer
+6. Arrhenius base: OH⁻ ion producer
+7. Brönsted-Lowry acid: Proton donor
+8. Brönsted-Lowry base: Proton acceptor
+9. Conjugate acid-base pair: Species differing by one proton
+10. Lewis acid: Electron pair acceptor
+11. Lewis base: Electron pair donor
+
+## Formulas and Reactions:
+
+1. HCl + H₂O → H₃O⁺ + Cl⁻
+2. CH₃COOH + H₂O ⇌ H₃O⁺ + CH₃COO⁻
+3. NH₃ + H₂O ⇌ NH₄⁺ + OH⁻
+4. BF₃ + NH₃ → BF₃:NH₃ (Lewis acid-base reaction)
+
+
+
+
+
+
+# ********************************* Part 4 ****************************************
+
+# Equilibrium Notes Part 4: 6.11 to 6.13
+
+## 6.11 Ionization of Acids and Bases
+
+### 6.11.1 The Ionization Constant of Water and its Ionic Product
+- Water self-ionization: H₂O + H₂O ⇌ H₃O⁺ + OH⁻
+- Ionic product of water: Kw = [H₃O⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 298 K
+- pH + pOH = 14 at 298 K
+
+### 6.11.2 The pH Scale
+- pH = -log[H⁺]
+- pOH = -log[OH⁻]
+- Acidic solution: pH < 7
+- Basic solution: pH > 7
+- Neutral solution: pH = 7
+
+### 6.11.3 Ionization Constants of Weak Acids
+- For weak acid HA: HA + H₂O ⇌ H₃O⁺ + A⁻
+- Acid dissociation constant: Ka = [H₃O⁺][A⁻] / [HA]
+- pKa = -log Ka
+
+### 6.11.4 Ionization of Weak Bases
+- For weak base B: B + H₂O ⇌ BH⁺ + OH⁻
+- Base dissociation constant: Kb = [BH⁺][OH⁻] / [B]
+- pKb = -log Kb
+
+### 6.11.5 Relation between Ka and Kb
+- For conjugate acid-base pair: Ka × Kb = Kw
+- pKa + pKb = pKw = 14 (at 298 K)
+
+### 6.11.6 Di- and Polybasic Acids and Di- and Polyacidic Bases
+- Polyprotic acids have multiple dissociation steps, each with its own Ka
+- Example: H₂CO₃ ⇌ H⁺ + HCO₃⁻ (Ka1)
+           HCO₃⁻ ⇌ H⁺ + CO₃²⁻ (Ka2)
+
+### 6.11.7 Factors Affecting Acid Strength
+- Bond strength: Weaker H-A bond = stronger acid
+- Bond polarity: More polar H-A bond = stronger acid
+- Atomic size: Larger atom (down the group) = stronger acid
+
+### 6.11.8 Common Ion Effect in the Ionization of Acids and Bases
+- Addition of common ion suppresses ionization
+- Example: Adding CH₃COONa to CH₃COOH solution decreases [H⁺]
+
+### 6.11.9 Hydrolysis of Salts and the pH of their Solutions
+- Salt of strong acid and strong base: Neutral (pH = 7)
+- Salt of weak acid and strong base: Basic (pH > 7)
+- Salt of strong acid and weak base: Acidic (pH < 7)
+- Salt of weak acid and weak base: pH depends on Ka and Kb
+
+## 6.12 Buffer Solutions
+
+- Buffer: Solution that resists changes in pH upon addition of small amounts of acid or base
+- Composed of weak acid and its conjugate base or weak base and its conjugate acid
+
+### 6.12.1 Designing Buffer Solution
+- Henderson-Hasselbalch equation:
+  For acidic buffer: pH = pKa + log([salt] / [acid])
+  For basic buffer: pOH = pKb + log([salt] / [base])
+
+
+
+
+
+
+# ********************************* Part 5 ****************************************
+
+## 6.13 Solubility Equilibria of Sparingly Soluble Salts
+
+- Sparingly soluble salts: Salts with very low solubility in water
+
+### 6.13.1 Solubility Product Constant
+
+- Solubility product (Ksp): Product of the concentrations of ions in a saturated solution, each raised to the power of its stoichiometric coefficient
+
+For a salt MₓAy that dissociates as:
+MₓAy ⇌ xMʸ⁺ + yAˣ⁻
+
+Ksp = [Mʸ⁺]ˣ [Aˣ⁻]ʸ
+
+- Molar solubility (S): Number of moles of solute that dissolve in 1 L of solution to form a saturated solution
+
+Relationship between Ksp and S:
+Ksp = xˣ yʸ S⁽ˣ⁺ʸ⁾
+
+S = (Ksp / (xˣ yʸ))¹⁄⁽ˣ⁺ʸ⁾
+
+Examples:
+1. For AgCl ⇌ Ag⁺ + Cl⁻
+   Ksp = [Ag⁺][Cl⁻] = S²
+
+2. For Ag₂CrO₄ ⇌ 2Ag⁺ + CrO₄²⁻
+   Ksp = [Ag⁺]² [CrO₄²⁻] = 4S³
+
+### 6.13.2 Common Ion Effect on Solubility of Ionic Salts
+
+- Common ion effect: Decrease in solubility of a sparingly soluble salt due to the presence of a common ion in solution
+
+Example: Solubility of AgCl decreases when NaCl is added to the solution due to increased [Cl⁻]
+
+- To calculate solubility in presence of common ion:
+1. Write the Ksp expression
+2. Substitute the known concentration of the common ion
+3. Solve for the unknown concentration of the other ion
+4. Use the concentration to calculate the solubility
+
+Factors affecting solubility:
+1. Temperature: Generally increases solubility (except for gases in liquids)
+2. pH: Affects solubility of salts containing weak acid or base ions
+3. Complex ion formation: Increases solubility
+
+## Key Terms:
+1. Sparingly soluble salt: Salt with very low solubility in water
+2. Solubility product (Ksp): Product of ion concentrations in a saturated solution
+3. Molar solubility (S): Moles of solute per liter in a saturated solution
+4. Common ion effect: Decrease in solubility due to presence of a common ion
+5. Complex ion: Ion formed by coordination of a metal ion with one or more molecules or ions
+
+## Important Formulas:
+1. Ksp = [Mʸ⁺]ˣ [Aˣ⁻]ʸ
+2. Ksp = xˣ yʸ S⁽ˣ⁺ʸ⁾
+3. S = (Ksp / (xˣ yʸ))¹⁄⁽ˣ⁺ʸ⁾
+
+For NEET preparation:
+- Understand the concept of solubility product and its relationship with molar solubility
+- Practice calculating Ksp from given solubility and vice versa
+- Know how to predict precipitation by comparing ion product (Q) with Ksp
+- Understand the common ion effect and its impact on solubility
+- Be familiar with factors affecting solubility, especially pH and complex ion formation
+- Practice problems involving calculation of solubility in presence of common ions
+
+Remember to work through various numerical problems related to solubility equilibria, as these are frequently asked in NEET exams.

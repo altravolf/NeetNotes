@@ -1,0 +1,274 @@
+# ******************************* Part 1 *******************************
+
+Here are the notes with corrected superscript and subscript formatting:
+
+Introduction:
+- Atoms are the fundamental building blocks of matter
+- John Dalton proposed the first atomic theory in 1808, considering atoms as indivisible particles
+- Late 19th century experiments proved atoms are divisible, consisting of subatomic particles: electrons, protons, and neutrons
+
+2.1 Discovery of Sub-atomic Particles
+
+2.1.1 Discovery of Electron
+- Michael Faraday (1830): Discovered the particulate nature of electricity through electrolysis experiments
+- Cathode ray experiments:
+  - Conducted in partially evacuated tubes with electrodes
+  - Cathode rays: Streams of particles moving from cathode to anode
+  - Properties of cathode rays:
+    1. Travel in straight lines
+    2. Consist of negatively charged particles (electrons)
+    3. Properties independent of the material of electrodes and gas in the tube
+
+2.1.2 Charge to Mass Ratio of Electron
+- J.J. Thomson (1897): Measured e/m₁ ratio
+- Method: Applied electric and magnetic fields perpendicular to cathode rays
+- Formula: e/m₁ = 1.758820 × 10¹¹ C kg⁻¹
+  Where e = charge on electron, m₁ = mass of electron
+
+2.1.3 Charge on the Electron
+- R.A. Millikan (1909): Oil drop experiment
+- Determined charge on electron: -1.6 × 10⁻¹⁹ C
+- Mass of electron (m₁) = 9.1094 × 10⁻³¹ kg
+
+2.1.4 Discovery of Protons and Neutrons
+- Protons: Discovered through canal ray experiments
+  - Smallest positively charged particle
+  - Mass ≈ 1836 times that of an electron
+- Neutrons: Discovered by James Chadwick (1932)
+  - No charge
+  - Mass slightly greater than a proton
+
+2.2 Atomic Models
+
+2.2.1 Thomson Model of Atom
+- Proposed in 1898
+- "Plum pudding" or "Watermelon" model
+- Atom: Positively charged sphere with embedded electrons
+- Limitation: Could not explain stability of atoms
+
+2.2.2 Rutherford's Nuclear Model of Atom
+- Based on α-particle scattering experiment (1909)
+- Observations:
+  1. Most α-particles passed through gold foil undeflected
+  2. Some deflected by small angles
+  3. Very few (1 in 20,000) deflected by large angles (>90°)
+- Conclusions:
+  1. Most of the atom is empty space
+  2. Positive charge concentrated in a small, dense nucleus
+  3. Electrons revolve around the nucleus in circular orbits
+- Limitations: Could not explain stability of atoms or atomic spectra
+
+2.2.3 Atomic Number and Mass Number
+- Atomic number (Z): Number of protons in nucleus
+- Mass number (A): Total number of nucleons (protons + neutrons)
+- Relation: A = Z + n (where n = number of neutrons)
+
+2.2.4 Isobars and Isotopes
+- Isobars: Atoms with same mass number but different atomic numbers
+- Isotopes: Atoms with same atomic number but different mass numbers
+- Notation: Element symbol with A as superscript and Z as subscript (e.g., ¹⁴₆C)
+
+2.2.5 Drawbacks of Rutherford Model
+1. Could not explain stability of atoms (why electrons don't fall into nucleus)
+2. Failed to explain atomic spectra
+3. Did not account for electronic structure of atoms
+
+Key terms to remember:
+- Cathode rays, Anode, Electric field, Magnetic field
+- e/m₁ ratio, Oil drop experiment
+- Canal rays, α-particles
+- Plum pudding model, Nuclear model
+- Atomic number, Mass number, Isobars, Isotopes
+
+Formulas to remember:
+1. e/m₁ = 1.758820 × 10¹¹ C kg⁻¹
+2. A = Z + n
+
+These notes cover the essential concepts, experiments, and models related to atomic structure, which are crucial for NEET preparation.
+
+
+
+
+
+# ********************************* Part 2 *******************************
+
+Here are concise notes on sections 2.3 and 2.4 for NEET preparation:
+
+2.3 Developments Leading to the Bohr's Model of Atom
+
+2.3.1 Wave Nature of Electromagnetic Radiation
+- Electromagnetic waves: Oscillating electric and magnetic fields
+- Properties:
+  1. Perpendicular electric and magnetic fields
+  2. Can travel through vacuum
+  3. Travel at speed of light (c = 3 × 10⁸ m/s)
+- Electromagnetic spectrum: Range of EM radiation (radio waves to gamma rays)
+- Characteristics:
+  - Wavelength (λ): Distance between two consecutive crests or troughs
+  - Frequency (ν): Number of waves passing a point per second
+  - Relation: c = νλ
+- Wavenumber ( ): Number of wavelengths per unit length
+  Formula:  = 1/λ
+
+2.3.2 Particle Nature of Electromagnetic Radiation: Planck's Quantum Theory
+- Max Planck (1900): Proposed quantization of energy
+- Quantum: Smallest quantity of energy that can be emitted or absorbed as EM radiation
+- Planck's equation: E = hν
+  Where E = energy, h = Planck's constant (6.626 × 10⁻³⁴ J·s), ν = frequency
+- Photoelectric effect: Emission of electrons when light falls on certain metals
+- Einstein's explanation (1905):
+  1. Light consists of packets of energy called photons
+  2. Energy of photon: E = hν
+  3. Kinetic energy of ejected electron: KE = hν - W₀
+     Where W₀ = work function (minimum energy required to eject an electron)
+
+2.4 Bohr's Model for Hydrogen Atom
+
+Niels Bohr (1913) proposed a model for the hydrogen atom based on quantum theory:
+
+Postulates:
+1. Electrons revolve in discrete circular orbits around the nucleus
+2. Energy of an electron in an orbit is fixed (stationary states)
+3. Angular momentum of electron is quantized: mvr = nh/2π
+   Where n = 1, 2, 3, ... (principal quantum number)
+4. Electron can jump between orbits by absorbing or emitting energy
+   ΔE = E₂ - E₁ = hν
+
+Bohr's equations:
+1. Radius of nth orbit: rₙ = n²a₀
+   Where a₀ = 52.9 pm (Bohr radius)
+2. Energy of electron in nth orbit: Eₙ = -R₁(1/n²)
+   Where R₁ = 2.18 × 10⁻¹⁸ J (Rydberg constant for hydrogen)
+3. For hydrogen-like species (He⁺, Li²⁺, etc.):
+   Eₙ = -(2.18 × 10⁻¹⁸ J) (Z²/n²)
+   rₙ = (52.9 pm) (n²/Z)
+   Where Z = atomic number
+
+2.4.1 Explanation of Line Spectrum of Hydrogen
+- Line spectrum: Discrete lines of specific wavelengths emitted by excited atoms
+- Spectral series in hydrogen:
+  1. Lyman series (ultraviolet): n₁ = 1, n₂ = 2, 3, 4, ...
+  2. Balmer series (visible): n₁ = 2, n₂ = 3, 4, 5, ...
+  3. Paschen series (infrared): n₁ = 3, n₂ = 4, 5, 6, ...
+- Rydberg formula:  = R(1/n₁² - 1/n₂²)
+  Where R = Rydberg constant (1.09677 × 10⁷ m⁻¹)
+        n₁ = lower energy level, n₂ = higher energy level
+
+2.4.2 Limitations of Bohr's Model
+1. Only applicable to hydrogen and hydrogen-like species
+2. Could not explain the fine structure of spectral lines
+3. Failed to explain the effect of magnetic field on spectra (Zeeman effect)
+4. Did not explain the ability of atoms to form molecules
+
+Key terms to remember:
+- Electromagnetic radiation, Wavelength, Frequency, Wavenumber
+- Quantum, Photon, Photoelectric effect, Work function
+- Stationary states, Angular momentum quantization
+- Line spectrum, Spectral series, Rydberg formula
+
+Formulas to remember:
+1. c = νλ
+2.  = 1/λ
+3. E = hν
+4. KE = hν - W₀
+5. mvr = nh/2π
+6. rₙ = n²a₀
+7. Eₙ = -R₁(1/n²)
+8. Eₙ = -(2.18 × 10⁻¹⁸ J) (Z²/n²) (for hydrogen-like species)
+9. rₙ = (52.9 pm) (n²/Z) (for hydrogen-like species)
+10.  = R(1/n₁² - 1/n₂²) (Rydberg formula)
+
+These notes cover the essential concepts, theories, and equations related to the development of atomic models and Bohr's model of the hydrogen atom, which are crucial for NEET preparation.
+
+
+
+
+
+
+
+
+
+# ********************************* Part 3 *******************************
+
+Here are concise notes on section 2.6 (Quantum Mechanical Model of Atom) for NEET preparation:
+
+2.6 Quantum Mechanical Model of Atom
+
+Introduction:
+- Based on quantum mechanics, which deals with the motion of microscopic particles
+- Developed independently by Werner Heisenberg and Erwin Schrödinger in 1926
+
+Key Concepts:
+
+1. Schrödinger Equation:
+   - Fundamental equation of quantum mechanics
+   - For hydrogen atom: HΨ = EΨ
+     Where H = Hamiltonian operator, Ψ = wave function, E = energy
+
+2. Wave Function (Ψ):
+   - Mathematical function describing the quantum state of a particle
+   - |Ψ|² represents probability density of finding an electron at a point in space
+
+3. Atomic Orbitals:
+   - Three-dimensional region around the nucleus where the probability of finding an electron is maximum
+   - Characterized by quantum numbers
+
+4. Quantum Numbers:
+   a) Principal Quantum Number (n):
+      - Determines the energy and size of the orbital
+      - n = 1, 2, 3, ...
+      - Represents electron shells (K, L, M, ...)
+
+   b) Azimuthal Quantum Number (l):
+      - Determines the shape of the orbital
+      - l = 0, 1, 2, ..., (n-1)
+      - Represents subshells (s, p, d, f, ...)
+
+   c) Magnetic Quantum Number (mₗ):
+      - Determines the orientation of the orbital in space
+      - mₗ = -l, (-l+1), ..., 0, ..., (l-1), l
+      - Total number of orbitals in a subshell = 2l + 1
+
+   d) Spin Quantum Number (mₛ):
+      - Represents the spin of an electron
+      - mₛ = +½ or -½
+
+5. Shapes of Atomic Orbitals:
+   - s orbital: Spherical
+   - p orbital: Dumbbell-shaped (3 orientations: p₁, p₂, p₃)
+   - d orbital: Clover-leaf shaped (5 orientations)
+   - f orbital: Complex shape (7 orientations)
+
+6. Aufbau Principle:
+   - Electrons fill orbitals in order of increasing energy
+   - General order: 1s → 2s → 2p → 3s → 3p → 4s → 3d → 4p → 5s → 4d → 5p → 6s → 4f → 5d → 6p → 7s → 5f → 6d → 7p
+
+7. Pauli Exclusion Principle:
+   - No two electrons in an atom can have the same set of four quantum numbers
+   - Maximum number of electrons in a shell = 2n²
+
+8. Hund's Rule of Maximum Multiplicity:
+   - Electrons occupy orbitals of equal energy (degenerate orbitals) singly before pairing
+
+9. Electronic Configuration:
+   - Arrangement of electrons in an atom's orbitals
+   - Notation: 1s² 2s² 2p⁶ 3s² 3p⁶ ...
+
+10. Stability of Half-filled and Completely Filled Subshells:
+    - Extra stability due to symmetric distribution of electrons and exchange energy
+
+Key Formulas:
+
+1. Number of orbitals in a shell = n²
+2. Number of orbitals in a subshell = 2l + 1
+3. Maximum number of electrons in a shell = 2n²
+4. Maximum number of electrons in a subshell = 4l + 2
+
+Important Terms:
+- Wave function, Probability density, Atomic orbital
+- Quantum numbers (n, l, mₗ, mₛ)
+- Shells, Subshells, Orbitals
+- Aufbau principle, Pauli exclusion principle, Hund's rule
+- Electronic configuration, Half-filled and completely filled subshells
+
+These notes cover the essential concepts, principles, and terms related to the quantum mechanical model of the atom, which are crucial for NEET preparation. Remember to focus on understanding the relationships between quantum numbers and their significance in determining the properties and arrangements of electrons in atoms.

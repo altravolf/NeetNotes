@@ -1,0 +1,204 @@
+# ************************************** Part 1 ********************************
+
+Here are the notes with subscripts formatted as requested:
+
+Introduction to Organic Chemistry
+- Study of compounds containing carbon
+- Vital for life (DNA, proteins, blood, muscles, skin)
+- Applications: clothing, fuels, polymers, dyes, medicines
+- History: 
+  - 1780s: Distinction between organic (from living sources) and inorganic compounds
+  - 1828: Wöhler synthesized urea from inorganic compound (disproved "vital force" theory)
+  - 1845: Kolbe synthesized acetic acid
+  - 1856: Berthelot synthesized methane
+
+8.1 General Introduction
+- Catenation: Carbon's ability to form bonds with other carbon atoms
+- Carbon forms covalent bonds with H, O, N, S, P, and halogens
+- Organic compounds classified by structure or functional groups
+
+8.2 Tetravalence of Carbon: Shapes of Organic Compounds
+
+8.2.1 The Shapes of Carbon Compounds
+- Hybridization: Mixing of atomic orbitals
+  - sp³: Tetrahedral (e.g., methane CH₄)
+  - sp²: Trigonal planar (e.g., ethene C₂H₄)
+  - sp: Linear (e.g., ethyne C₂H₂)
+
+- Bond characteristics:
+  - sp³-s: Forms σ (sigma) bonds
+  - sp²-sp²: Forms σ bonds
+  - Unhybridized p orbitals: Form π (pi) bonds
+
+8.2.2 Some Characteristic Features of π Bonds
+- Require parallel p orbitals for proper sideways overlap
+- Electron charge cloud above and below bonding plane
+- More reactive than σ bonds
+- Restricted rotation around C=C double bonds
+
+8.3 Structural Representations of Organic Compounds
+
+8.3.1 Complete, Condensed and Bond-line Structural Formulas
+- Complete structural formula: Shows all bonds
+- Condensed structural formula: Omits some or all dashes
+- Bond-line structural formula: Uses lines to represent carbon chains
+
+Examples:
+Ethane: CH₃CH₃ (condensed), CH₃-CH₃ (complete)
+Ethene: H₂C=CH₂ (condensed)
+Ethyne: HC≡CH (condensed)
+
+8.3.2 Three-Dimensional Representation of Organic Molecules
+- Wedge and dash formula:
+  Solid wedge (▲): Bond projecting out of plane
+  Dashed wedge (┼): Bond projecting into plane
+  Normal line (—): Bond in plane of paper
+
+- Molecular models:
+  1. Framework model: Shows only bonds
+  2. Ball-and-stick model: Shows atoms (balls) and bonds (sticks)
+  3. Space-filling model: Emphasizes relative atomic sizes
+
+8.4 Classification of Organic Compounds
+
+- Based on structure or functional groups
+
+8.4.1 Functional Group
+- Atom or group of atoms responsible for characteristic chemical properties
+- Examples: -OH (alcohol), -CHO (aldehyde), -COOH (carboxylic acid)
+
+8.4.2 Homologous Series
+- Series of compounds with same functional group
+- Differ by -CH₂ unit in molecular formula
+- Examples: Alkanes, alkenes, alkynes, alcohols, aldehydes, ketones, carboxylic acids
+
+Classification:
+1. Acyclic (open chain) compounds
+   - Aliphatic compounds (straight or branched chain)
+   Example: CH₃-CH₂-CH₃ (propane)
+
+2. Cyclic (closed chain) compounds
+   a. Alicyclic compounds
+      Example: Cyclohexane
+   b. Aromatic compounds
+      - Benzenoid: Contain benzene ring
+        Example: Benzene (C₆H₆)
+      - Non-benzenoid: Aromatic but not containing benzene ring
+        Example: Tropone
+   c. Heterocyclic compounds
+      - Contains atoms other than carbon in the ring
+      Example: Tetrahydrofuran
+
+Key formulas:
+1. Urea synthesis: NH₄CNO → NH₂CONH₂
+2. Hybridization:
+   - sp³: 4 σ bonds, tetrahedral, 109.5° bond angle
+   - sp²: 3 σ bonds, 1 π bond, trigonal planar, 120° bond angle
+   - sp: 2 σ bonds, 2 π bonds, linear, 180° bond angle
+
+Remember to practice drawing structures and identifying functional groups for NEET preparation.
+
+
+
+
+
+
+
+
+# ************************************** Part 2 ********************************
+
+Here are the notes for sections 8.5 and 8.6, formatted for NEET preparation:
+
+8.5 Nomenclature of Organic Compounds
+
+8.5.1 The IUPAC System of Nomenclature
+- IUPAC: International Union of Pure and Applied Chemistry
+- Systematic naming correlates structure with name
+
+8.5.2 IUPAC Nomenclature of Alkanes
+Rules for naming branched alkanes:
+1. Identify longest carbon chain (parent chain)
+2. Number the carbon atoms to give lowest numbers to substituents
+3. Name alkyl groups as prefixes to parent alkane
+4. Use di-, tri-, tetra- etc. for multiple identical substituents
+5. List different substituents alphabetically
+6. Use numbers to indicate substituent positions, separated by commas
+
+Examples:
+- CH₃-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₃ : Octane
+- (CH₃)₃C-CH₂-CH(CH₃)-CH₂-CH₃ : 2,2,4-Trimethylpentane
+
+Alkyl groups:
+- Methyl (-CH₃), Ethyl (-CH₂CH₃), Propyl (-CH₂CH₂CH₃)
+- Isopropyl [CH₃-CH(CH₃)-], sec-Butyl [CH₃-CH₂-CH(CH₃)-]
+- Isobutyl [(CH₃)₂CH-CH₂-], tert-Butyl [(CH₃)₃C-]
+
+Cyclic Compounds:
+- Prefix "cyclo-" to the alkane name
+Example: Cyclohexane, 3-Ethyl-1,1-dimethylcyclohexane
+
+8.5.3 Nomenclature of Organic Compounds having Functional Group(s)
+- Identify principal functional group (highest priority)
+- Name parent chain including principal functional group
+- Other groups named as prefixes
+
+Functional Group Priorities (decreasing order):
+-COOH, -SO₃H, -COOR, -COCl, -CONH₂, -CN, -CHO, >C=O, -OH, -NH₂, >C=C<, -C≡C-
+
+Example: HOCH₂(CH₂)₃CH₂COCH₃ : 7-Hydroxyheptan-2-one
+
+8.5.4 Nomenclature of Substituted Benzene Compounds
+- Name substituents as prefixes to "benzene"
+- For disubstituted: Use numbers or ortho- (1,2), meta- (1,3), para- (1,4)
+- For tri- or higher substituted: Use numbers only
+
+Examples:
+- Methylbenzene (Toluene)
+- 1,3-Dibromobenzene (m-Dibromobenzene)
+- 4-Ethyl-2-methylaniline
+
+8.6 Isomerism
+
+Definition: Compounds with the same molecular formula but different structures
+
+Types of Isomerism:
+1. Structural Isomerism
+   a. Chain Isomerism
+      - Different carbon skeletons
+      Example: C₅H₁₂ (n-pentane, isopentane, neopentane)
+
+   b. Position Isomerism
+      - Different positions of substituent/functional group
+      Example: C₃H₈O (Propan-1-ol, Propan-2-ol)
+
+   c. Functional Group Isomerism
+      - Different functional groups
+      Example: C₃H₆O (Propanal, Propanone)
+
+   d. Metamerism
+      - Different alkyl chains on either side of functional group
+      Example: C₄H₁₀O (CH₃OC₃H₇, C₂H₅OC₂H₅)
+
+2. Stereoisomerism
+   a. Geometrical Isomerism
+      - Different spatial arrangements of groups around C=C or rings
+   
+   b. Optical Isomerism
+      - Non-superimposable mirror images
+
+Key Points for NEET:
+- Practice drawing structures for all types of isomers
+- Understand the differences between various types of isomerism
+- Be able to identify and name isomers given molecular formulas or structures
+- Know how to determine the number of possible isomers for a given molecular formula
+
+Remember to practice problems involving nomenclature and isomerism, as these are important topics for NEET.
+
+
+
+
+
+
+
+
+# *********************************** Part 3 ****************************************

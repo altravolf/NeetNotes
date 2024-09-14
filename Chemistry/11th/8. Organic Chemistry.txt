@@ -202,3 +202,213 @@ Remember to practice problems involving nomenclature and isomerism, as these are
 
 
 # *********************************** Part 3 ****************************************
+
+Here are the notes for sections 8.7 and 8.8, formatted for NEET preparation:
+
+8.7 Fundamental Concepts in Organic Reaction Mechanism
+
+8.7.1 Fission of a Covalent Bond
+1. Homolytic Cleavage:
+   - Each fragment retains one electron
+   - Forms free radicals
+   A:B → A• + B•
+
+2. Heterolytic Cleavage:
+   - One fragment retains both electrons
+   - Forms ions
+   A:B → A⁺ + :B⁻ or A:⁻ + B⁺
+
+8.7.2 Substrate and Reagent
+- Substrate: Molecule whose carbon is involved in new bond formation
+- Reagent: Molecule that brings about the reaction
+
+Nucleophiles (Nu:): Electron pair donors
+Examples: HO⁻, NC⁻, R₃C:⁻, :NH₃
+
+Electrophiles (E⁺): Electron pair acceptors
+Examples: C⁺H₃, >C=O, R₃C-X (X = halogen)
+
+8.7.3 Electron Movement in Organic Reactions
+- Curved arrow notation shows electron pair movement
+- Fish hook (⇀) shows single electron movement
+
+8.7.4 Electron Displacement Effects in Covalent Bonds
+1. Inductive Effect (I)
+2. Resonance Effect (R)
+3. Electromeric Effect (E)
+4. Hyperconjugation
+
+8.7.5 Inductive Effect
+- Permanent polarization of σ-bond
+- Decreases with distance
+- Electron-withdrawing groups: -NO₂, -CN, -COOH, halogens
+- Electron-donating groups: Alkyl groups (-CH₃, -C₂H₅)
+
+8.7.6 Resonance Structure
+- Multiple valid Lewis structures for a molecule
+- Actual structure is a hybrid of resonance structures
+Example: Benzene resonance structures
+
+8.7.7 Resonance Effect
+- Electron displacement in π-bonds or between π-bond and lone pair
+Types:
+1. +R effect: Electron donation (e.g., -OH, -NH₂, -OR)
+2. -R effect: Electron withdrawal (e.g., -NO₂, -CN, -CHO)
+
+8.7.8 Electromeric Effect
+- Temporary effect in presence of attacking reagent
+Types:
+1. +E effect: π-electrons move towards atom under attack
+2. -E effect: π-electrons move away from atom under attack
+
+8.7.9 Hyperconjugation
+- Delocalization of σ-electrons with adjacent π-system or p-orbital
+- Stabilizes carbocations and alkenes
+Example: (CH₃)₃C⁺ more stable than CH₃CH₂⁺
+
+8.7.10 Types of Organic Reactions and Mechanisms
+1. Substitution reactions
+2. Addition reactions
+3. Elimination reactions
+4. Rearrangement reactions
+
+8.8 Methods of Purification of Organic Compounds
+
+8.8.1 Sublimation
+- Solid directly converts to vapor and back to solid
+- Used for volatile solids
+
+8.8.2 Crystallization
+- Based on solubility differences
+- Steps: Dissolution, filtration, concentration, cooling, filtration, drying
+
+8.8.3 Distillation
+1. Simple Distillation:
+   - For liquids with significant boiling point difference
+   - Separates volatile and non-volatile compounds
+
+2. Fractional Distillation:
+   - For liquids with close boiling points
+   - Uses fractionating column
+
+3. Distillation under Reduced Pressure:
+   - For high-boiling liquids or thermally unstable compounds
+
+4. Steam Distillation:
+   - For steam-volatile, water-immiscible compounds
+   - Compound boils below 373 K at atmospheric pressure
+
+8.8.4 Differential Extraction
+- Based on solubility differences in two immiscible solvents
+- Uses separatory funnel
+
+8.8.5 Chromatography
+- Separation based on differential adsorption or partition
+Types:
+1. Adsorption Chromatography:
+   a. Column Chromatography
+   b. Thin-Layer Chromatography (TLC)
+
+2. Partition Chromatography:
+   - Paper Chromatography
+
+Key Concepts for NEET:
+- Retention factor (Rꜰ) in TLC and paper chromatography:
+  Rꜰ = Distance moved by substance / Distance moved by solvent
+
+- Understand principles behind each purification method
+- Know which method to use for different types of mixtures
+- Be familiar with experimental setups (e.g., distillation apparatus)
+
+Remember to practice problems related to purification techniques and reaction mechanisms, as these are important topics for NEET.
+
+
+
+
+
+
+# *********************************** Part 4 ****************************************
+
+Here are the notes for sections 8.9 and 8.10, formatted for NEET preparation:
+
+8.9 Qualitative Analysis of Organic Compounds
+
+8.9.1 Detection of Carbon and Hydrogen
+- Heat compound with CuO
+- CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O (white ppt. for carbon)
+- H₂O + anhydrous CuSO₄ → CuSO₄·5H₂O (blue color for hydrogen)
+
+8.9.2 Detection of Other Elements
+Lassaigne's Test:
+- Fuse compound with Na metal
+- Extract with distilled water
+
+A. Test for Nitrogen:
+Na + C + N → NaCN
+Fe²⁺ + 6CN⁻ → [Fe(CN)₆]⁴⁻
+3[Fe(CN)₆]⁴⁻ + 4Fe³⁺ → Fe₄[Fe(CN)₆]₃ (Prussian blue)
+
+B. Test for Sulphur:
+Na + S → Na₂S
+(i) S²⁻ + Pb²⁺ → PbS (black ppt.)
+(ii) S²⁻ + [Fe(CN)₅NO]²⁻ → [Fe(CN)₅NOS]⁴⁻ (violet color)
+
+C. Test for Halogens:
+Na + X → NaX (X = Cl, Br, I)
+Ag⁺ + X⁻ → AgX↓
+- AgCl: White ppt., soluble in NH₄OH
+- AgBr: Pale yellow ppt., sparingly soluble in NH₄OH
+- AgI: Yellow ppt., insoluble in NH₄OH
+
+D. Test for Phosphorus:
+- Heat with Na₂O₂, boil with HNO₃
+- Add ammonium molybdate
+- Yellow ppt. of (NH₄)₃PO₄·12MoO₃
+
+8.10 Quantitative Analysis
+
+8.10.1 Carbon and Hydrogen
+- Combustion method
+- CO₂ absorbed in KOH, H₂O in anhydrous CaCl₂
+% C = (12 × mass of CO₂ × 100) / (44 × mass of compound)
+% H = (2 × mass of H₂O × 100) / (18 × mass of compound)
+
+8.10.2 Nitrogen
+1. Dumas Method:
+- Heat with CuO in CO₂ atmosphere
+- Collect N₂ over KOH solution
+% N = (28 × Volume of N₂ at STP × 100) / (22400 × mass of compound)
+
+2. Kjeldahl's Method:
+- Heat with conc. H₂SO₄ → (NH₄)₂SO₄
+- Distill with NaOH, absorb NH₃ in excess H₂SO₄
+- Titrate unused H₂SO₄ with NaOH
+% N = (1.4 × Molarity of acid × Volume of acid used) / Mass of compound
+
+8.10.3 Halogens
+Carius Method:
+- Heat with fuming HNO₃ and AgNO₃
+- Precipitate as AgX
+% X = (Atomic mass of X × mass of AgX × 100) / (Molecular mass of AgX × mass of compound)
+
+8.10.4 Sulphur
+- Oxidize to H₂SO₄ (Carius method)
+- Precipitate as BaSO₄
+% S = (32 × mass of BaSO₄ × 100) / (233 × mass of compound)
+
+8.10.5 Phosphorus
+- Oxidize to H₃PO₄
+- Precipitate as (NH₄)₃PO₄·12MoO₃ or Mg₂P₂O₇
+% P = (62 × mass of Mg₂P₂O₇ × 100) / (222 × mass of compound)
+
+8.10.6 Oxygen
+- Usually calculated by difference
+% O = 100 - (% C + % H + % N + % S + % halogens + % P)
+
+Key Points for NEET:
+- Understand the principles behind each qualitative and quantitative test
+- Memorize color changes and precipitate formations for qualitative tests
+- Practice calculations for quantitative analysis
+- Be familiar with the limitations of each method (e.g., Kjeldahl's method not suitable for N in -NO₂, -N=N-, ring N)
+
+Remember to solve numerical problems related to quantitative analysis, as these are frequently asked in NEET exams.

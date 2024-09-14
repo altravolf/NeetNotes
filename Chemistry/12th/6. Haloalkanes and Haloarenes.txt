@@ -1,0 +1,252 @@
+# ******************************* Part 1 ******************************
+
+Here are concise notes for NEET on topics Introduction, 6.1 to 6.6 from the NCERT content provided:
+
+Introduction to Haloalkanes and Haloarenes
+
+- Haloalkanes: Hydrocarbons with halogen atom(s) replacing hydrogen
+- Haloarenes: Aromatic compounds with halogen atom(s) attached
+- General formula for haloalkanes: CₙH₂ₙ₊₁X (X = F, Cl, Br, I)
+- Applications: Solvents, starting materials for organic synthesis
+- Examples of naturally occurring halogen compounds:
+  - Chloramphenicol (antibiotic)
+  - Thyroxine (hormone)
+- Synthetic halogen compounds:
+  - Chloroquine (antimalarial)
+  - Halothane (anesthetic)
+
+6.1 Classification
+
+6.1.1 Based on Number of Halogen Atoms
+- Monohalocompounds: One halogen atom
+- Dihalocompounds: Two halogen atoms
+- Polyhalocompounds: More than two halogen atoms
+
+6.1.2 Compounds with sp³ C—X Bond
+a) Alkyl halides (R—X)
+   - Primary (1°): Halogen attached to primary carbon
+   - Secondary (2°): Halogen attached to secondary carbon
+   - Tertiary (3°): Halogen attached to tertiary carbon
+b) Allylic halides: Halogen on carbon adjacent to C=C
+c) Benzylic halides: Halogen on carbon attached to aromatic ring
+
+6.1.3 Compounds with sp² C—X Bond
+a) Vinylic halides: Halogen attached to sp² carbon of C=C
+b) Aryl halides: Halogen directly bonded to aromatic ring
+
+6.2 Nomenclature
+
+- Common names: Name alkyl group + name of halide
+- IUPAC system: Name as halosubstituted hydrocarbons
+- Prefixes: Fluoro-, chloro-, bromo-, iodo-
+- Di-, tri-, tetra-: For multiple same halogens
+- Numbers indicate position of halogen atoms
+- Examples:
+  1. CH₃CH₂CH(Cl)CH₃ - 2-Chlorobutane
+  2. (CH₃)₃CBr - 2-Bromo-2-methylpropane
+  3. CH₂=CHCl - Chloroethene
+  4. CH₂Cl₂ - Dichloromethane
+
+6.3 Nature of C-X Bond
+
+- C-X bond is polar due to electronegativity difference
+- Carbon bears partial positive charge (δ+)
+- Halogen bears partial negative charge (δ-)
+- Bond length increases: C-F < C-Cl < C-Br < C-I
+- Bond enthalpy decreases: C-F > C-Cl > C-Br > C-I
+
+6.4 Methods of Preparation of Haloalkanes
+
+6.4.1 From Alcohols
+- React with hydrogen halides (HX) or phosphorus halides (PX₃, PX₅)
+- Reactions:
+  R-OH + HX → R-X + H₂O
+  R-OH + SOCl₂ → R-Cl + SO₂ + HCl
+- Reactivity order: 3° > 2° > 1° alcohols
+
+6.4.2 From Hydrocarbons
+a) Free radical halogenation of alkanes
+   CH₄ + Cl₂ → CH₃Cl + HCl
+b) Addition of HX to alkenes (Markovnikov's rule)
+   CH₃-CH=CH₂ + HBr → CH₃-CHBr-CH₃
+c) Addition of halogens to alkenes
+   CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br
+
+6.4.3 Halogen Exchange
+- Finkelstein reaction: RCl + NaI → RI + NaCl
+- Swarts reaction: RCl + AgF → RF + AgCl
+
+6.5 Preparation of Haloarenes
+
+a) Electrophilic substitution of arenes
+   C₆H₆ + Cl₂ → C₆H₅Cl + HCl
+b) From diazonium salts (Sandmeyer reaction)
+   C₆H₅N₂⁺Cl⁻ + CuCl → C₆H₅Cl + N₂ + Cu⁺
+
+6.6 Physical Properties
+
+- Higher boiling points than parent hydrocarbons due to dipole-dipole forces
+- Slightly soluble in water, completely soluble in organic solvents
+- Density increases with number of carbon and halogen atoms
+- Boiling point order: RI > RBr > RCl > RF
+- Melting point: p-dihalobenzenes have higher m.p. than o- and m-isomers
+
+Key terms:
+- Haloalkanes: Alkanes with one or more hydrogen atoms replaced by halogen atoms
+- Haloarenes: Aromatic compounds with halogen atoms directly attached to the ring
+- Nucleophilic substitution: Reaction where a nucleophile replaces a leaving group
+- Electrophilic substitution: Reaction where an electrophile replaces a hydrogen atom on an aromatic ring
+- Markovnikov's rule: In addition reactions, the electrophile adds to the carbon with more hydrogen atoms
+
+
+
+# *************************** PART 2 ***************************
+
+Here are concise notes for NEET on topic 6.7 from the NCERT content provided:
+
+6.7 Chemical Reactions
+
+6.7.1 Reactions of Haloalkanes
+
+1. Nucleophilic Substitution Reactions
+   - Definition: Nucleophile replaces the halogen atom
+   - Types: SN1 and SN2 mechanisms
+
+   a) SN2 Mechanism (Substitution Nucleophilic Bimolecular)
+      - One-step process
+      - Rate depends on concentration of both substrate and nucleophile
+      - Inversion of configuration occurs
+      - Example: CH₃Br + OH⁻ → CH₃OH + Br⁻
+      - Reactivity order: Primary > Secondary > Tertiary
+
+   b) SN1 Mechanism (Substitution Nucleophilic Unimolecular)
+      - Two-step process
+      - Rate depends only on concentration of substrate
+      - Carbocation intermediate formed
+      - Racemization occurs
+      - Example: (CH₃)₃CBr + H₂O → (CH₃)₃COH + H⁺ + Br⁻
+      - Reactivity order: Tertiary > Secondary > Primary
+
+   c) Stereochemistry of nucleophilic substitution
+      - Chirality: Non-superimposable mirror images
+      - Optical activity: Rotation of plane-polarized light
+      - Enantiomers: Stereoisomers that are mirror images
+      - Racemic mixture: Equal mixture of enantiomers
+
+2. Elimination Reactions
+   - Dehydrohalogenation: Removal of HX to form alkenes
+   - Example: CH₃-CH₂-Br + KOH → CH₂=CH₂ + KBr + H₂O
+   - Zaitsev's rule: Major product has more substituted double bond
+
+3. Reaction with Metals
+   a) Grignard Reagent Formation
+      - RX + Mg → RMgX (in dry ether)
+      - Used in organic synthesis
+
+   b) Wurtz Reaction
+      - 2R-X + 2Na → R-R + 2NaX
+      - Forms higher alkanes
+
+6.7.2 Reactions of Haloarenes
+
+1. Nucleophilic Substitution
+   - Difficult due to resonance stability and shorter C-X bond
+   - Activated by electron-withdrawing groups (e.g., -NO₂)
+   - Example: p-NO₂-C₆H₄-Cl + NaOH → p-NO₂-C₆H₄-OH + NaCl
+
+2. Electrophilic Substitution
+   - Halogen acts as deactivating and ortho-para directing group
+   - Examples:
+     a) Halogenation: C₆H₅Cl + Cl₂ → o-C₆H₄Cl₂ + p-C₆H₄Cl₂
+     b) Nitration: C₆H₅Cl + HNO₃ + H₂SO₄ → o-NO₂C₆H₄Cl + p-NO₂C₆H₄Cl
+     c) Sulphonation: C₆H₅Br + H₂SO₄ → o-BrC₆H₄SO₃H + p-BrC₆H₄SO₃H
+     d) Friedel-Crafts alkylation: C₆H₅Cl + CH₃Cl → o-CH₃C₆H₄Cl + p-CH₃C₆H₄Cl
+
+3. Reaction with Metals
+   a) Wurtz-Fittig Reaction
+      - C₆H₅Cl + 2Na + CH₃Cl → C₆H₅-CH₃ + 2NaCl
+   b) Fittig Reaction
+      - C₆H₅Cl + 2Na + C₆H₅Cl → C₆H₅-C₆H₅ + 2NaCl
+
+Key terms:
+- Nucleophile: Electron-rich species that attacks electron-deficient centers
+- Electrophile: Electron-deficient species that attacks electron-rich centers
+- Carbocation: Positively charged carbon intermediate
+- Racemization: Formation of equal amounts of enantiomers
+- Resonance: Delocalization of electrons in a molecule
+- Grignard reagent: Organomagnesium compound (RMgX)
+
+
+
+
+
+
+# *************************** PART 3 ***************************
+
+Here are concise notes for NEET on topic 6.8 from the NCERT content provided:
+
+6.8 Polyhalogen Compounds
+
+6.8.1 Dichloromethane (Methylene chloride)
+- Formula: CH₂Cl₂
+- Uses: Solvent, paint remover, propellant in aerosols
+- Health effects: Affects central nervous system, can cause dizziness and nausea
+
+6.8.2 Trichloromethane (Chloroform)
+- Formula: CHCl₃
+- Uses: Solvent for fats, production of freon R-22
+- Former use: General anesthetic (replaced due to toxicity)
+- Health effects: Depresses central nervous system, can cause liver and kidney damage
+- Safety: Stored in dark bottles to prevent formation of poisonous phosgene (COCl₂)
+
+6.8.3 Triiodomethane (Iodoform)
+- Formula: CHI₃
+- Former use: Antiseptic (due to liberation of free iodine)
+- Characteristic: Strong, objectionable odor
+
+6.8.4 Tetrachloromethane (Carbon tetrachloride)
+- Formula: CCl₄
+- Uses: Manufacture of refrigerants, solvent, fire extinguisher (former)
+- Health effects: Can cause liver damage, dizziness, and irregular heartbeat
+- Environmental impact: Depletes ozone layer
+
+6.8.5 Freons
+- Definition: Chlorofluorocarbons (CFCs) of methane and ethane
+- Example: Freon 12 (CCl₂F₂)
+- Properties: Stable, unreactive, non-toxic, non-corrosive
+- Uses: Aerosol propellants, refrigeration, air conditioning
+- Environmental impact: Ozone depletion
+- Preparation: Swarts reaction (CCl₄ + SbF₃ → CCl₂F₂)
+
+6.8.6 p,p'-Dichlorodiphenyltrichloroethane (DDT)
+- Formula: (ClC₆H₄)₂CH(CCl₃)
+- Discovery: Paul Muller (1939) - Nobel Prize in 1948
+- Use: Insecticide (especially against mosquitoes and lice)
+- Properties: Chemically stable, fat-soluble
+- Environmental concerns: 
+  - Bioaccumulation in food chain
+  - High toxicity to fish
+  - Insect resistance
+- Current status: Banned in many countries, still used in some parts of the world
+
+Key terms:
+- Polyhalogen compounds: Organic compounds containing more than one halogen atom
+- Freons: Chlorofluorocarbons used as refrigerants and aerosol propellants
+- Ozone depletion: Destruction of ozone in the stratosphere, leading to increased UV radiation reaching Earth's surface
+- Bioaccumulation: Gradual accumulation of substances in an organism's body over time
+- Phosgene: Highly toxic gas (COCl₂) formed by oxidation of chloroform
+
+Important reactions:
+1. Swarts reaction: CCl₄ + SbF₃ → CCl₂F₂ (Formation of Freon 12)
+
+2. Decomposition of chloroform:
+   4 CHCl₃ + O₂ → 4 COCl₂ + 2 H₂O + 2 Cl₂
+
+Environmental impact:
+- CFCs and carbon tetrachloride contribute to ozone depletion
+- DDT accumulates in the food chain and affects wildlife
+
+Safety precautions:
+- Proper storage and handling of chloroform to prevent phosgene formation
+- Limited use of carbon tetrachloride due to its toxicity and environmental impact
+- Controlled use or ban of DDT in many countries due to ecological concerns

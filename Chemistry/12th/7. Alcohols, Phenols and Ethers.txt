@@ -1,0 +1,126 @@
+# *************************************** Part 1 ******************************
+
+Here are detailed notes for the Introduction and sections 7.1 to 7.3, tailored for NEET preparation:
+
+Introduction to Alcohols, Phenols, and Ethers
+
+- Alcohols, phenols, and ethers are important organic compounds with various applications
+- They are formed by replacing hydrogen atoms in hydrocarbons with -OH groups or -O- groups
+- Examples of everyday uses:
+  * Ethanol in furniture polish
+  * Sugar, cotton, and paper contain compounds with -OH groups
+  * Phenols in antiseptics
+  * Ethers in fragrances
+
+Key Definitions:
+- Alcohol: Compound with one or more -OH groups attached to alkyl (saturated hydrocarbon) groups
+- Phenol: Compound with -OH group(s) attached to aromatic rings
+- Ether: Compound with an oxygen atom bonded to two alkyl or aryl groups
+
+7.1 Classification
+
+7.1.1 Alcohols
+A. Based on number of -OH groups:
+   1. Monohydric: One -OH group (e.g., CH₃OH, methanol)
+   2. Dihydric: Two -OH groups (e.g., HOCH₂CH₂OH, ethylene glycol)
+   3. Trihydric: Three -OH groups (e.g., HOCH₂CH(OH)CH₂OH, glycerol)
+   4. Polyhydric: More than three -OH groups
+
+B. Based on the carbon atom to which -OH is attached:
+   1. Primary (1°): -OH attached to a carbon with one alkyl group
+      R-CH₂-OH (R is an alkyl group)
+   2. Secondary (2°): -OH attached to a carbon with two alkyl groups
+      R₂CH-OH
+   3. Tertiary (3°): -OH attached to a carbon with three alkyl groups
+      R₃C-OH
+
+C. Special types:
+   1. Allylic alcohols: -OH group on carbon adjacent to C=C double bond
+      CH₂=CH-CH₂-OH (allyl alcohol)
+   2. Benzylic alcohols: -OH group on carbon adjacent to benzene ring
+      C₆H₅-CH₂-OH (benzyl alcohol)
+
+7.1.2 Phenols
+A. Based on number of -OH groups:
+   1. Monohydric: One -OH group (e.g., C₆H₅OH, phenol)
+   2. Dihydric: Two -OH groups (e.g., catechol, resorcinol, hydroquinone)
+   3. Trihydric: Three -OH groups (e.g., pyrogallol, phloroglucinol)
+
+7.1.3 Ethers
+A. Based on alkyl/aryl groups attached to oxygen:
+   1. Symmetrical (simple): Same groups on both sides of oxygen
+      R-O-R (e.g., CH₃-O-CH₃, dimethyl ether)
+   2. Unsymmetrical (mixed): Different groups on each side of oxygen
+      R-O-R' (e.g., CH₃-O-C₂H₅, methyl ethyl ether)
+
+7.2 Nomenclature
+
+7.2.1 Alcohols
+A. Common system:
+   - Name derived from the alkyl group + "alcohol"
+   - Example: CH₃OH is methyl alcohol
+
+B. IUPAC system:
+   - Replace "-e" in alkane name with "-ol"
+   - Numbering starts from the end closest to -OH group
+   - For polyhydric alcohols, use prefixes di-, tri-, etc.
+   - Examples:
+     * CH₃-CH₂-OH: Ethanol
+     * CH₃-CH(OH)-CH₃: Propan-2-ol
+     * HO-CH₂-CH₂-OH: Ethane-1,2-diol
+
+7.2.2 Phenols
+A. Simple phenol:
+   - Both common and IUPAC name is "phenol" (C₆H₅OH)
+
+B. Substituted phenols:
+   - Use prefixes ortho- (1,2-), meta- (1,3-), and para- (1,4-) for disubstituted benzene rings
+   - Examples:
+     * 2-methylphenol (o-cresol)
+     * 3-methylphenol (m-cresol)
+     * 4-methylphenol (p-cresol)
+     * Benzene-1,2-diol (catechol)
+     * Benzene-1,3-diol (resorcinol)
+     * Benzene-1,4-diol (hydroquinone)
+
+7.2.3 Ethers
+A. Common system:
+   - Names of alkyl/aryl groups in alphabetical order + "ether"
+   - Example: CH₃-O-C₂H₅ is ethyl methyl ether
+
+B. IUPAC system:
+   - Larger group as parent chain, smaller group as alkoxy substituent
+   - Examples:
+     * CH₃-O-CH₃: Methoxymethane
+     * C₆H₅-O-CH₃: Methoxybenzene (anisole)
+     * C₆H₅-O-CH₂CH₃: Ethoxybenzene (phenetole)
+
+7.3 Structures of Functional Groups
+
+7.3.1 Alcohols
+- C-O-H bond angle slightly less than tetrahedral (109°28')
+- sp³ hybridized carbon and oxygen
+- Two lone pairs on oxygen cause slight repulsion
+
+7.3.2 Phenols
+- C-O bond length (136 pm) slightly shorter than in alcohols
+- Partial double bond character due to resonance with aromatic ring
+- sp² hybridized carbon attached to -OH group
+
+7.3.3 Ethers
+- C-O-C bond angle slightly larger than tetrahedral
+- Four electron pairs (two bond pairs, two lone pairs) on oxygen
+- C-O bond length (141 pm) similar to alcohols
+
+These notes cover the introductory material and sections 7.1 to 7.3 of the chapter, including all important terms, definitions, classifications, and structural information relevant for NEET preparation.
+
+
+
+
+
+
+
+
+
+# ***************************** Part 2 ****************************
+

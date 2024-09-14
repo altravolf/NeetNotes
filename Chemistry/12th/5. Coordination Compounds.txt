@@ -1,0 +1,194 @@
+# ******************************* Part 1 ******************************
+
+Here are notes for Introduction, 5.1 to 5.3 for NEET, covering key terms, explanations, and formulas from the NCERT content:
+
+Introduction to Coordination Compounds
+
+- Coordination compounds: Compounds where metal atoms/ions are bound to a number of anions or neutral molecules
+- Examples: Chlorophyll (Mg), hemoglobin (Fe), vitamin B₁₂ (Co)
+- Applications: Metallurgy, industrial catalysts, analytical reagents, electroplating, textile dyeing, medicinal chemistry
+
+5.1 Werner's Theory of Coordination Compounds
+
+- Alfred Werner (1866-1919): Swiss chemist who developed the theory of coordination compounds
+- Key concepts:
+  1. Primary valence: Ionizable bonds (now known as oxidation state)
+  2. Secondary valence: Non-ionizable bonds (now known as coordination number)
+- Experimental basis: Studies on cobalt chloride-ammonia complexes
+  - CoCl₃·6NH₃ (Yellow) gave 3 mol AgCl
+  - CoCl₃·5NH₃ (Purple) gave 2 mol AgCl
+  - CoCl₃·4NH₃ (Green) gave 1 mol AgCl
+  - CoCl₃·4NH₃ (Violet) gave 1 mol AgCl
+- Main postulates:
+  1. Metals show two types of valences: primary and secondary
+  2. Primary valences satisfied by negative ions
+  3. Secondary valences satisfied by neutral molecules or negative ions
+  4. Secondary valence equals coordination number (fixed for a metal)
+  5. Coordinated groups have characteristic spatial arrangements
+- Proposed geometrical shapes: Octahedral, tetrahedral, square planar
+
+5.2 Definitions of Important Terms
+
+a) Coordination entity: Central metal atom/ion bonded to a fixed number of ions/molecules
+   Example: [CoCl₃(NH₃)₃]
+
+b) Central atom/ion: The atom/ion to which a fixed number of ions/groups are bound
+   Example: Co³⁺ in [Co(NH₃)₆]³⁺
+
+c) Ligands: Ions or molecules bound to the central atom/ion
+   Types:
+   - Monodentate: Single donor atom (e.g., Cl⁻, H₂O, NH₃)
+   - Bidentate: Two donor atoms (e.g., H₂NCH₂CH₂NH₂, C₂O₄²⁻)
+   - Polydentate: Multiple donor atoms (e.g., EDTA⁴⁻)
+   - Ambidentate: Can coordinate through different atoms (e.g., NO₂⁻, SCN⁻)
+
+d) Coordination number: Number of ligand donor atoms directly bonded to the central metal atom/ion
+   Example: 6 for [PtCl₆]²⁻, 4 for [Ni(NH₃)₄]²⁺
+
+e) Coordination sphere: Central atom/ion and attached ligands enclosed in square brackets
+   Example: [Fe(CN)₆]⁴⁻ in K₄[Fe(CN)₆]
+
+f) Coordination polyhedron: Spatial arrangement of ligands around the central atom/ion
+   Examples: Octahedral, square planar, tetrahedral
+
+g) Oxidation number: Charge the central atom would have if all ligands were removed with their electron pairs
+   Example: Cu(I) in [Cu(CN)₄]³⁻
+
+h) Homoleptic complexes: Contains only one type of ligand (e.g., [Co(NH₃)₆]³⁺)
+   Heteroleptic complexes: Contains more than one type of ligand (e.g., [Co(NH₃)₄Cl₂]⁺)
+
+5.3 Nomenclature of Coordination Compounds
+
+5.3.1 Formulas of Mononuclear Coordination Entities
+Rules:
+1. Central atom listed first
+2. Ligands listed alphabetically
+3. Polydentate ligands also listed alphabetically
+4. Coordination entity enclosed in square brackets
+5. No space between ligands and metal within coordination sphere
+6. Charge indicated outside brackets (e.g., [Co(CN)₆]³⁻)
+
+5.3.2 Naming of Mononuclear Coordination Compounds
+Rules:
+1. Cation named first
+2. Ligands named alphabetically before central atom/ion
+3. Anionic ligands end in '-o', neutral ligands unchanged (except aqua, ammine, carbonyl, nitrosyl)
+4. Numerical prefixes: mono-, di-, tri-, tetra-, penta-, hexa-
+5. Oxidation state in Roman numerals
+6. Anionic complex names end with '-ate' (some use Latin names, e.g., ferrate for Fe)
+
+Examples:
+- [Cr(NH₃)₃(H₂O)₃]Cl₃: Triamminetriaquachromium(III) chloride
+- [Co(H₂NCH₂CH₂NH₂)₃]₂(SO₄)₃: Tris(ethane-1,2-diamine)cobalt(III) sulphate
+- [Ag(NH₃)₂][Ag(CN)₂]: Diamminesilver(I) dicyanidoargentate(I)
+
+These notes cover the key points for Introduction, 5.1 to 5.3 as per NCERT, including important terms, explanations, and formulas, formatted for NEET preparation.
+
+
+
+
+
+
+# ************************************** Part 2 ********************************
+
+Here are notes for sections 5.4 to 5.7 for NEET, covering key terms, explanations, and formulas from the NCERT content:
+
+5.4 Isomerism in Coordination Compounds
+
+Two main types:
+A. Stereoisomerism
+   1. Geometrical isomerism
+      - Occurs in heteroleptic complexes
+      - Examples:
+        a) Square planar: cis- and trans-[PtCl₂(NH₃)₂]
+        b) Octahedral: cis- and trans-[Co(NH₃)₄Cl₂]⁺
+        c) Octahedral with bidentate ligands: cis- and trans-[CoCl₂(en)₂]⁺
+        d) Facial (fac) and meridional (mer) isomers: [Co(NH₃)₃(NO₂)₃]
+
+   2. Optical isomerism
+      - Mirror images that cannot be superimposed
+      - Examples: d- and l-[Co(en)₃]³⁺, cis-[PtCl₂(en)₂]²⁺
+
+B. Structural isomerism
+   1. Linkage isomerism: Different donor atoms of ambidentate ligand
+      Example: [Co(NH₃)₅(NO₂)]Cl₂ (red) and [Co(NH₃)₅(ONO)]Cl₂ (yellow)
+
+   2. Coordination isomerism: Interchange of ligands between cationic and anionic entities
+      Example: [Co(NH₃)₆][Cr(CN)₆] and [Cr(NH₃)₆][Co(CN)₆]
+
+   3. Ionisation isomerism: Different ions produced in solution
+      Example: [Co(NH₃)₅SO₄]Br and [Co(NH₃)₅Br]SO₄
+
+   4. Solvate isomerism: Different number of solvent molecules in coordination sphere
+      Example: [Cr(H₂O)₆]Cl₃ (violet) and [Cr(H₂O)₅Cl]Cl₂·H₂O (grey-green)
+
+5.5 Bonding in Coordination Compounds
+
+5.5.1 Valence Bond Theory (VBT)
+- Hybridization of central metal atom orbitals
+- Overlap with ligand orbitals
+- Explains geometry and magnetic properties
+- Examples:
+  a) [Co(NH₃)₆]³⁺: d²sp³ hybridization (inner orbital complex)
+  b) [CoF₆]³⁻: sp³d² hybridization (outer orbital complex)
+  c) [Ni(CN)₄]²⁻: dsp² hybridization (square planar)
+  d) [NiCl₄]²⁻: sp³ hybridization (tetrahedral)
+
+5.5.2 Magnetic Properties
+- Determined by number of unpaired electrons
+- Spin-only magnetic moment: μ = √n(n+2) BM, where n = number of unpaired electrons
+
+5.5.3 Limitations of VBT
+- Cannot explain color of complexes
+- Cannot quantitatively interpret magnetic data
+
+5.5.4 Crystal Field Theory (CFT)
+- Considers electrostatic interactions between metal ion and ligands
+- d-orbital splitting in different crystal fields:
+  a) Octahedral: t₂g (d(xy), d(yz), d(xz)) and eg (d(z²), d(x²-y²))
+  b) Tetrahedral: e and t₂
+- Crystal field splitting energy (Δ₀ for octahedral, Δt for tetrahedral)
+- Spectrochemical series: I⁻ < Br⁻ < SCN⁻ < Cl⁻ < S²⁻ < F⁻ < OH⁻ < C₂O₄²⁻ < H₂O < NCS⁻ < EDTA⁴⁻ < NH₃ < en < CN⁻ < CO
+
+5.5.5 Colour in Coordination Compounds
+- Due to d-d transitions
+- Complementary color observed
+- Example: [Ti(H₂O)₆]³⁺ absorbs blue-green light, appears violet
+
+5.5.6 Limitations of CFT
+- Does not consider covalent character of metal-ligand bond
+
+5.6 Bonding in Metal Carbonyls
+
+- Metal-carbon bond has both σ and π character
+- Synergic effect: M→C σ bond and M←C π back-bonding
+- Examples: Ni(CO)₄ (tetrahedral), Fe(CO)₅ (trigonal bipyramidal), Cr(CO)₆ (octahedral)
+
+5.7 Importance and Applications of Coordination Compounds
+
+1. Biological systems:
+   - Chlorophyll (Mg), Hemoglobin (Fe), Vitamin B₁₂ (Co)
+   - Enzymes: Carboxypeptidase A, Carbonic anhydrase
+
+2. Analytical chemistry:
+   - Qualitative and quantitative analysis
+   - Hardness of water determination (EDTA titration)
+
+3. Metallurgy:
+   - Extraction of silver and gold
+   - Purification of metals (e.g., Ni(CO)₄ decomposition)
+
+4. Catalysis:
+   - Wilkinson's catalyst [(Ph₃P)₃RhCl] for alkene hydrogenation
+
+5. Electroplating:
+   - Use of [Ag(CN)₂]⁻ and [Au(CN)₂]⁻ for smoother plating
+
+6. Photography:
+   - Fixing agent: Na₂S₂O₃ forms [Ag(S₂O₃)₂]³⁻
+
+7. Medicinal chemistry:
+   - Chelation therapy (e.g., EDTA for lead poisoning)
+   - Anticancer drugs (e.g., cisplatin)
+
+These notes cover the key points for sections 5.4 to 5.7 as per NCERT, including important terms, explanations, and formulas, formatted for NEET preparation.

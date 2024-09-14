@@ -1,0 +1,214 @@
+# ***************************** Part 1 ********************************
+
+I apologize for the oversight. You're right, I didn't fully apply the formatting to all instances. Let me correct that and provide the notes with consistent superscript and subscript formatting:
+
+Introduction to Solutions
+- A solution is a homogeneous mixture of two or more substances.
+- Components: Solute (dissolved substance) and Solvent (dissolving medium)
+- Solutions can exist in all states of matter: solid, liquid, and gas
+
+1.1 Types of Solutions
+1. Gaseous Solutions
+   - Gas in gas: Air (mixture of gases)
+   - Liquid in gas: Water vapor in air
+   - Solid in gas: Camphor in nitrogen
+2. Liquid Solutions
+   - Gas in liquid: Oxygen in water (aerated water)
+   - Liquid in liquid: Ethanol in water
+   - Solid in liquid: Sugar in water
+3. Solid Solutions
+   - Gas in solid: Hydrogen in palladium
+   - Liquid in solid: Mercury in silver (amalgam)
+   - Solid in solid: Copper in gold (alloy)
+
+1.2 Expressing Concentration of Solutions
+1. Mass Percentage (w/w):
+   - Formula: Mass % of component = (Mass of component / Total mass of solution) × 100
+2. Volume Percentage (v/v):
+   - Formula: Volume % of component = (Volume of component / Total volume of solution) × 100
+3. Mass by Volume Percentage (w/v):
+   - Mass of solute dissolved in 100 mL of solution
+4. Parts per Million (ppm):
+   - Formula: ppm = (Number of parts of component / Total parts of all components) × 10⁶
+5. Mole Fraction (x):
+   - Formula: xₐ = nₐ / (nₐ + nᵦ)
+   - Where nₐ and nᵦ are the number of moles of components A and B
+6. Molarity (M):
+   - Formula: M = Moles of solute / Volume of solution in liters
+7. Molality (m):
+   - Formula: m = Moles of solute / Mass of solvent in kg
+
+1.3 Solubility
+- Solubility: Maximum amount of solute that can dissolve in a given amount of solvent at a specific temperature and pressure
+
+1.3.1 Solubility of a Solid in a Liquid
+- Factors affecting solubility:
+  1. Nature of solute and solvent
+  2. Temperature
+  3. Pressure (for gases)
+- Saturation: When no more solute can dissolve at given conditions
+- Unsaturated solution: Can dissolve more solute
+- Supersaturated solution: Contains more dissolved solute than a saturated solution under normal conditions
+
+1.3.2 Solubility of a Gas in a Liquid
+- Henry's Law: At constant temperature, the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid
+- Formula: p = Kₕ × x
+  Where:
+  p = partial pressure of the gas
+  Kₕ = Henry's law constant
+  x = mole fraction of the gas in solution
+- Effect of temperature: Solubility of gases in liquids generally decreases with increasing temperature
+
+Key Terms:
+- Homogeneous: Uniform composition throughout
+- Heterogeneous: Non-uniform composition
+- Solute: The substance being dissolved
+- Solvent: The dissolving medium
+- Saturated solution: Contains maximum amount of dissolved solute
+- Unsaturated solution: Can dissolve more solute
+- Supersaturated solution: Contains more dissolved solute than a saturated solution under normal conditions
+- Henry's law constant: Proportionality constant in Henry's law, specific to each gas-liquid pair
+
+Remember to practice numerical problems related to concentration calculations and Henry's law for NEET preparation.
+
+
+
+
+
+
+
+# ***************************** Part 2 ********************************
+
+Here are the notes with proper subscript and superscript formatting:
+
+Introduction to Solutions
+- A solution is a homogeneous mixture of two or more substances.
+- Components: Solute (dissolved substance) and Solvent (dissolving medium)
+- Solutions can exist in all states of matter: solid, liquid, and gas
+
+1.1 Types of Solutions
+1. Gaseous Solutions
+   - Gas in gas: Air (mixture of gases)
+   - Liquid in gas: Water vapor in air
+   - Solid in gas: Camphor in nitrogen
+2. Liquid Solutions
+   - Gas in liquid: Oxygen in water (aerated water)
+   - Liquid in liquid: Ethanol in water
+   - Solid in liquid: Sugar in water
+3. Solid Solutions
+   - Gas in solid: Hydrogen in palladium
+   - Liquid in solid: Mercury in silver (amalgam)
+   - Solid in solid: Copper in gold (alloy)
+
+1.2 Expressing Concentration of Solutions
+1. Mass Percentage (w/w):
+   - Formula: Mass % of component = (Mass of component / Total mass of solution) × 100
+2. Volume Percentage (v/v):
+   - Formula: Volume % of component = (Volume of component / Total volume of solution) × 100
+3. Mass by Volume Percentage (w/v):
+   - Mass of solute dissolved in 100 mL of solution
+4. Parts per Million (ppm):
+   - Formula: ppm = (Number of parts of component / Total parts of all components) × 10⁶
+5. Mole Fraction (x):
+   - Formula: xₐ = nₐ / (nₐ + nᵦ)
+   - Where nₐ and nᵦ are the number of moles of components A and B
+6. Molarity (M):
+   - Formula: M = Moles of solute / Volume of solution in liters
+7. Molality (m):
+   - Formula: m = Moles of solute / Mass of solvent in kg
+
+1.3 Solubility
+- Solubility: Maximum amount of solute that can dissolve in a given amount of solvent at a specific temperature and pressure
+
+1.3.1 Solubility of a Solid in a Liquid
+- Factors affecting solubility:
+  1. Nature of solute and solvent
+  2. Temperature
+  3. Pressure (for gases)
+- Saturation: When no more solute can dissolve at given conditions
+- Unsaturated solution: Can dissolve more solute
+- Supersaturated solution: Contains more dissolved solute than a saturated solution under normal conditions
+
+1.3.2 Solubility of a Gas in a Liquid
+- Henry's Law: At constant temperature, the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas above the liquid
+- Formula: p = Kₕ × x
+  Where:
+  p = partial pressure of the gas
+  Kₕ = Henry's law constant
+  x = mole fraction of the gas in solution
+- Effect of temperature: Solubility of gases in liquids generally decreases with increasing temperature
+
+Key Terms:
+- Homogeneous: Uniform composition throughout
+- Heterogeneous: Non-uniform composition
+- Solute: The substance being dissolved
+- Solvent: The dissolving medium
+- Saturated solution: Contains maximum amount of dissolved solute
+- Unsaturated solution: Can dissolve more solute
+- Supersaturated solution: Contains more dissolved solute than a saturated solution under normal conditions
+- Henry's law constant: Proportionality constant in Henry's law, specific to each gas-liquid pair
+
+Remember to practice numerical problems related to concentration calculations and Henry's law for NEET preparation.
+
+
+
+
+
+
+
+# ***************************** Part 3 ********************************
+
+Here are the notes with proper subscript and superscript formatting:
+
+1.7 Abnormal Molar Masses
+- Abnormal molar mass: When experimentally determined molar mass differs from expected value due to association or dissociation of solute particles in solution
+
+1. Dissociation:
+   - Occurs in ionic compounds
+   - Experimentally determined molar mass is lower than expected
+   - Example: KCl dissociates into K⁺ and Cl⁻ ions in water
+
+2. Association:
+   - Occurs due to hydrogen bonding or other intermolecular forces
+   - Experimentally determined molar mass is higher than expected
+   - Example: Acetic acid (CH₃COOH) forms dimers in benzene
+
+van 't Hoff Factor (i):
+- Quantifies the extent of dissociation or association
+- Formula: i = Normal molar mass / Abnormal molar mass
+- Also defined as: i = Observed colligative property / Calculated colligative property
+- i > 1 for dissociation
+- i < 1 for association
+- i = 1 for no dissociation or association
+
+Modified equations for colligative properties:
+1. Relative lowering of vapour pressure:
+   (p°₁ - p₁) / p°₁ = i × n₂ / (n₁ + n₂)
+2. Elevation of boiling point:
+   ΔTᵦ = i × Kᵦ × m
+3. Depression of freezing point:
+   ΔTf = i × Kf × m
+4. Osmotic pressure:
+   π = i × CRT
+
+Degree of Dissociation (α):
+- For a solute that dissociates into n ions:
+  i = 1 + α(n - 1)
+- For a solute that associates to form dimers:
+  i = 1 - α/2
+
+Key Terms:
+- Abnormal molar mass: Experimentally determined molar mass that differs from expected value
+- Dissociation: Separation of a compound into ions in solution
+- Association: Combining of molecules to form larger units in solution
+- van 't Hoff factor (i): Ratio of actual number of particles in solution to the number of particles originally present
+- Degree of dissociation (α): Fraction of total solute that dissociates
+
+Important Points for NEET:
+1. Understand the concept of abnormal molar mass and its causes (dissociation and association).
+2. Memorize the van 't Hoff factor formula and its relationship to colligative properties.
+3. Practice problems involving the calculation of van 't Hoff factor and degree of dissociation.
+4. Know how to modify colligative property equations using the van 't Hoff factor.
+5. Be familiar with examples of substances that show abnormal molar mass behavior in different solvents.
+
+Remember to solve numerical problems related to abnormal molar masses and van 't Hoff factor for NEET preparation.
